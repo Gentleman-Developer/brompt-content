@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Understand My Partner Better",
+    "description": "Fill in all the fields in brackets before using this prompt. If you want the AI to analyze a specific situation from a photo, attach the relevant image where indicated.",
+    "prompt": "About me:\n- Name: [Your name]\n- Age: [Your age]\n\nAbout my partner:\n- Name: [Partner's name]\n- Age: [Partner's age]\n- Relationship length: [How long you have been together]\n\nWhat happened:\n[Describe the situation in detail]\n\nWhat I said or did:\n[Describe your words or actions]\n\nWhat my partner said or did:\n[Describe your partner's words or actions]\n\nIf the situation is shown in a message, conversation, screenshot, or photo, attach the image here:\n[Attach image if applicable]\n\nAnalyze the situation from both perspectives. Explain what each person might be feeling, what could have caused the misunderstanding, and how I could communicate my thoughts calmly and clearly.\n\nIf an image is attached, use the information visible in the image as additional context. Do not invent information that cannot be seen or understood from the image.\n\nDo not simply decide who is right or wrong. Focus on understanding both perspectives and improving communication."
+  },
+  {
+    "id": 2,
+    "title": "Plan a Memorable Date",
+    "description": "Fill in all the fields in brackets before using this prompt. Add a photo if you want the AI to consider a specific location, outfit, venue, or other visual detail when creating the date ideas.",
+    "prompt": "Location: [City or area]\nBudget: [Your budget and currency]\nAvailable time: [Number of hours]\nRelationship stage: [First date / New relationship / Long-term relationship / Married]\nOur interests: [Things we both enjoy]\nThings we do not like: [Things to avoid]\nSpecial occasion: [Birthday / Anniversary / Normal date / Other]\n\nIf there is a specific location, venue, outfit, or visual detail that you want the AI to consider, attach the image here:\n[Attach image if applicable]\n\nGive me 10 creative date ideas based on the information above.\n\nAvoid generic suggestions such as simply going to a restaurant or watching a movie unless they are combined with a more creative activity.\n\nFor each idea, include:\n- What we would do\n- Approximate cost\n- How long it would take\n- What we need to bring or prepare\n- Why it could be memorable\n\nIf an image is attached, use the visible details from the image when relevant. Do not assume details that cannot be clearly identified."
+  },
+  {
+    "id": 3,
+    "title": "Start a Deeper Conversation",
+    "description": "Fill in the fields in brackets before using this prompt. You can also attach an image of something meaningful to you or your partner if you want the AI to create questions based on it.",
+    "prompt": "We have been together for: [Relationship length]\nOur ages: [Your age] and [Partner's age]\n\nThings we already know about each other:\n[Write a few things you already know]\n\nTopics we enjoy talking about:\n[Topics you both enjoy]\n\nTopics we would like to understand better:\n[Topics you want to explore]\n\nIf you have a photo, screenshot, memory, object, place, or other visual reference that you want the questions to be based on, attach it here:\n[Attach image if applicable]\n\nCreate 15 meaningful conversation questions that can help us:\n- Learn something new about each other\n- Talk about our future\n- Share childhood memories\n- Understand each other's dreams and fears\n- Discuss our values and expectations\n- Strengthen our emotional connection\n\nMix the questions between playful, romantic, deep, thoughtful, and unexpected.\n\nIf an image is attached, use it as inspiration when creating relevant questions. Do not make assumptions about information that cannot be determined from the image.\n\nAvoid generic questions such as \"What is your favorite movie?\""
+  }
+]
