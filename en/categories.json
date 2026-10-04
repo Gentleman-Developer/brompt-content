@@ -1,0 +1,17 @@
+[
+  {
+    "id": "relationships",
+    "title": "Relationships",
+    "jsonFileName": "relationships.json"
+  },
+  {
+    "id": "business",
+    "title": "Business",
+    "jsonFileName": "business.json"
+  },
+  {
+    "id": "coding",
+    "title": "Coding & Software",
+    "jsonFileName": "coding.json"
+  }
+]

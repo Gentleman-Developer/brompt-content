@@ -1,0 +1,17 @@
+[
+  {
+    "id": "relationships",
+    "title": "İlişkiler",
+    "jsonFileName": "relationships.json"
+  },
+  {
+    "id": "business",
+    "title": "İş Dünyası",
+    "jsonFileName": "business.json"
+  },
+  {
+    "id": "coding",
+    "title": "Yazılım & Kodlama",
+    "jsonFileName": "coding.json"
+  }
+]
