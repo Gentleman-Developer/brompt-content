@@ -4,6 +4,11 @@
     "title": "Relationships",
     "jsonFileName": "relationships.json"
   },
+   {
+    "id": "image-generation",
+    "title": "Image Generation",
+    "jsonFileName": "image-generation.json"
+  },
   {
     "id": "business",
     "title": "Business",
@@ -13,5 +18,35 @@
     "id": "coding",
     "title": "Coding & Software",
     "jsonFileName": "coding.json"
+  },
+  {
+    "id": "writing",
+    "title": "Writing & Content",
+    "jsonFileName": "writing.json"
+  },
+  {
+    "id": "marketing",
+    "title": "Marketing",
+    "jsonFileName": "marketing.json"
+  },
+  {
+    "id": "education",
+    "title": "Education & Learning",
+    "jsonFileName": "education.json"
+  },
+  {
+    "id": "productivity",
+    "title": "Productivity",
+    "jsonFileName": "productivity.json"
+  },
+  {
+    "id": "social-media",
+    "title": "Social Media",
+    "jsonFileName": "social-media.json"
+  },
+  {
+    "id": "lifestyle",
+    "title": "Lifestyle",
+    "jsonFileName": "lifestyle.json"
   }
 ]
