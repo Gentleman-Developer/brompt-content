@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Cartoon Girl",
+    "description": "You might need to add image to the AI for using this prompt.",
+    "prompt": "Make a fourth puff girl based on my personality and appearance. And show me the result. As a boy . Depends on our back conversations. ",
+    "image_url": ""
+  },
+  {
+    "id": 2,
+    "title": "Vintage Photo",
+    "description": "You might need to add image to the AI for using this prompt.",
+    "prompt": "moody golden hour cafe portrait of a young woman sitting inside a dim restaurant booth, turning her head over her shoulder toward the camera, soft serious expression, face partially lit by warm window glow, dark interior shadows, blurred figures in the background, glowing red and amber bokeh lights, large bright window behind her, cinematic low-light atmosphere, nostalgic 35mm film photography, heavy grain, soft focus, muted green shadows, warm orange highlights, intimate candid framing, emotional quiet moment, slightly underexposed vintage editorial look --ar 4:5 --raw --profile f7ca75c --stylize 120 --weird 3 --hd --preview. ",
+    "image_url": ""
+  },
+  {
+    "id": 3,
+    "title": "Character Photo",
+    "description": "You might need to add image to the AI for using this prompt.",
+    "prompt": "Based on what you know of me, which characters' vibes do I give off? Draw me with those characters. ",
+    "image_url": ""
+  }
+]
