@@ -16,5 +16,11 @@
     "title": "Start a Deeper Conversation",
     "description": "Fill in the fields in brackets before using this prompt. You can also attach an image of something meaningful to you or your partner if you want the AI to create questions based on it.",
     "prompt": "We have been together for: [Relationship length]\nOur ages: [Your age] and [Partner's age]\n\nThings we already know about each other:\n[Write a few things you already know]\n\nTopics we enjoy talking about:\n[Topics you both enjoy]\n\nTopics we would like to understand better:\n[Topics you want to explore]\n\nIf you have a photo, screenshot, memory, object, place, or other visual reference that you want the questions to be based on, attach it here:\n[Attach image if applicable]\n\nCreate 15 meaningful conversation questions that can help us:\n- Learn something new about each other\n- Talk about our future\n- Share childhood memories\n- Understand each other's dreams and fears\n- Discuss our values and expectations\n- Strengthen our emotional connection\n\nMix the questions between playful, romantic, deep, thoughtful, and unexpected.\n\nIf an image is attached, use it as inspiration when creating relevant questions. Do not make assumptions about information that cannot be determined from the image.\n\nAvoid generic questions such as \"What is your favorite movie?\""
+  },
+  {
+    "id": 4,
+    "title": "Analyze Your Relationship",
+    "description":"You can copy the prompt by watching a single advertisement.",
+    "prompt": "Based on everything I’ve previously told you about my relationship, hold up a mirror to me.Be honest about my own behavior, patterns, blind spots, and contradictions — even if some of it is difficult or uncomfortable for me to hear. Point out things I may be ignoring, rationalizing, or failing to notice about the way I communicate, react, attach, or handle conflict.Don’t just validate me or take my side. Look at my behavior objectively and tell me what I might need to take responsibility for, what patterns I may be repeating, and what I could do differently.Base your analysis only on what I’ve actually shared with you. Don’t make assumptions or invent details.Most importantly, respond in the language I normally use when talking to you, and keep your tone natural, direct, and conversational."
   }
 ]
