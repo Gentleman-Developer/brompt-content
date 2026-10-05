@@ -5,13 +5,48 @@
     "jsonFileName": "relationships.json"
   },
   {
+    "id": "image-generation",
+    "title": "Görsel Oluşturma",
+    "jsonFileName": "image-generation.json"
+  },
+  {
     "id": "business",
     "title": "İş Dünyası",
     "jsonFileName": "business.json"
   },
   {
     "id": "coding",
-    "title": "Yazılım & Kodlama",
+    "title": "Kodlama ve Yazılım",
     "jsonFileName": "coding.json"
+  },
+  {
+    "id": "writing",
+    "title": "Yazarlık ve İçerik",
+    "jsonFileName": "writing.json"
+  },
+  {
+    "id": "marketing",
+    "title": "Pazarlama",
+    "jsonFileName": "marketing.json"
+  },
+  {
+    "id": "education",
+    "title": "Eğitim ve Öğrenme",
+    "jsonFileName": "education.json"
+  },
+  {
+    "id": "productivity",
+    "title": "Verimlilik",
+    "jsonFileName": "productivity.json"
+  },
+  {
+    "id": "social-media",
+    "title": "Sosyal Medya",
+    "jsonFileName": "social-media.json"
+  },
+  {
+    "id": "lifestyle",
+    "title": "Yaşam Tarzı",
+    "jsonFileName": "lifestyle.json"
   }
 ]
