@@ -8,16 +8,16 @@
   },
   {
     "id": 2,
-    "title": "Sonbahar Resmi",
+    "title": "Burç Temalı Tırnak Fotoğrafı",
     "description": "Resim ekleyerek bu promptu kullanabilirsiniz.",
-    "prompt": "moody golden hour cafe portrait of a young woman sitting inside a dim restaurant booth, turning her head over her shoulder toward the camera, soft serious expression, face partially lit by warm window glow, dark interior shadows, blurred figures in the background, glowing red and amber bokeh lights, large bright window behind her, cinematic low-light atmosphere, nostalgic 35mm film photography, heavy grain, soft focus, muted green shadows, warm orange highlights, intimate candid framing, emotional quiet moment, slightly underexposed vintage editorial look --ar 4:5 --raw --profile f7ca75c --stylize 120 --weird 3 --hd --preview. ",
+    "prompt": "Edit this photo of a hand. Apply realistic yet vibrant and colorful zodiac-themed nail art based on the [BURCUN NEDİR] sign. Design elegant, sharp and clean nails inspired by Cancer symbols and water elements. Use rich, glossy and highly saturated polish colors that match the sign’s emotional and oceanic vibe — deep teal, shimmering silver, soft coral pink, pearlescent white and aqua blue. Add delicate but eye-catching details on each nail such as tiny crab motifs, moon phases, water ripples, pearl accents and subtle glitter. Keep the overall look sophisticated and natural while making the colors vivid, lively and attractive. Do not change the hand, skin, fingers or background. Photorealistic, high-detail manicure, glossy finish, 1:1 image ratio. ",
     "image_url": ""
   },
   {
     "id": 3,
-    "title": "Karakter Resmi",
+    "title": "Gelecekteki Kadın Partnerinin Fotoğrafı",
     "description": "Resim ekleyerek bu promptu kullanabilirsiniz.",
-    "prompt": "Based on what you know of me, which characters' vibes do I give off? Draw me with those characters. ",
+    "prompt": "Create a fictional partner next to me, and make the lady like what you think I might like in a woman, and everything you know about my tastes. ",
     "image_url": ""
   }
 ]
