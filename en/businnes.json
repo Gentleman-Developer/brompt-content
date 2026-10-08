@@ -1,20 +1,62 @@
 [
   {
-    "id": 1,
-    "title": "Test Businness",
-    "description": "Test Description.",
-    "prompt": "Test Prompt"
+    "id": "1",
+    "title": "Business Plan",
+    "description": "Create a detailed business plan for a new business idea.",
+    "prompt": "Act as an experienced business consultant. Create a detailed business plan for [BUSINESS IDEA]. Include the target audience, problem being solved, value proposition, business model, revenue streams, marketing strategy, competitors, startup costs, potential risks, and a 12-month growth plan. Keep the plan practical and realistic."
   },
   {
-    "id": 2,
-    "title": "Test Businness 2",
-    "description": "Test Description. 2",
-    "prompt": "Test Prompt 2"
+    "id": "2",
+    "title": "Market Research",
+    "description": "Analyze a market, target audience, competitors, and business opportunities.",
+    "prompt": "Act as a market research analyst. Analyze the market for [PRODUCT OR SERVICE] in [COUNTRY OR MARKET]. Identify the target customers, their needs and pain points, major competitors, market opportunities, potential threats, and possible ways to differentiate the product or service."
   },
   {
-    "id": 3,
-    "title": "Test Businness 3",
-    "description": "Test Description 3.",
-    "prompt": "Test Prompt 3"
+    "id": "3",
+    "title": "Business Idea Generator",
+    "description": "Generate realistic business ideas based on skills, interests, and available resources.",
+    "prompt": "Act as a startup advisor. Generate 10 realistic business ideas based on my skills, interests, budget, and available time: [SKILLS], [INTERESTS], [BUDGET], [AVAILABLE TIME]. For each idea, explain the target audience, revenue model, startup requirements, difficulty level, and first three steps to launch it."
   },
+  {
+    "id": "4",
+    "title": "Business Plan Creator",
+    "description": "Create a complete and realistic business plan including executive summary, market analysis, financial projections, and go-to-market strategy.",
+    "prompt": "Act as an experienced business consultant. Create a detailed business plan for [BUSINESS IDEA] targeting [TARGET MARKET]. Include sections for executive summary, market analysis, competitive landscape, marketing strategy, operations plan, and 3-year financial projections."
+  },
+  {
+    "id": "5",
+    "title": "SWOT Analysis Expert",
+    "description": "Perform a deep SWOT analysis for a company, product, or business idea to identify strengths, weaknesses, opportunities, and threats.",
+    "prompt": "Act as a strategic business analyst. Conduct a comprehensive SWOT analysis for [COMPANY / PRODUCT / BUSINESS IDEA]. Provide detailed points under each category and suggest actionable strategies based on the findings."
+  },
+  {
+    "id": "6",
+    "title": "Pricing Strategy Advisor",
+    "description": "Develop smart and competitive pricing strategies based on costs, market demand, and competitor analysis.",
+    "prompt": "Act as a pricing strategy expert. Analyze and recommend the best pricing model for [PRODUCT OR SERVICE]. Consider cost structure, competitor prices, perceived value, customer willingness to pay, and suggest at least 3 different pricing strategies with pros and cons."
+  },
+  {
+    "id": "7",
+    "title": "Customer Persona Builder",
+    "description": "Create detailed and realistic customer personas to better understand target audience needs and behaviors.",
+    "prompt": "Act as a customer research specialist. Create 3 detailed buyer personas for [PRODUCT OR SERVICE]. For each persona include demographics, goals, pain points, buying behavior, preferred channels, and how the product solves their problems."
+  },
+  {
+    "id": "8",
+    "title": "Sales Funnel Optimizer",
+    "description": "Design and improve sales funnels to increase conversion rates from awareness to purchase.",
+    "prompt": "Act as a conversion rate optimization expert. Design a complete sales funnel for [PRODUCT OR SERVICE]. Map out each stage (awareness, interest, decision, action), suggest content and tactics for every stage, and provide ideas to reduce drop-off rates."
+  },
+  {
+    "id": "9",
+    "title": "Competitor Analysis Specialist",
+    "description": "Deeply analyze competitors to uncover strengths, weaknesses, and market positioning opportunities.",
+    "prompt": "Act as a competitive intelligence analyst. Perform a detailed competitor analysis for [YOUR BUSINESS] against its top 3 competitors. Compare product features, pricing, marketing strategies, strengths, weaknesses, and identify gaps or opportunities for differentiation."
+  },
+  {
+    "id": "10",
+    "title": "Financial Projection Generator",
+    "description": "Create realistic financial forecasts including revenue, expenses, cash flow, and break-even analysis.",
+    "prompt": "Act as a financial modeling expert. Generate a 12-month and 3-year financial projection for [BUSINESS IDEA]. Include projected revenue, fixed and variable costs, cash flow statement, break-even analysis, and key assumptions. Present the data in a clear and structured format."
+  }
 ]
