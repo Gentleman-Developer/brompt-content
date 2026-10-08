@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Code Explainer",
+    "description": "Explain any code snippet in simple and clear language with step-by-step breakdown.",
+    "prompt": "Act as an expert programming teacher. Explain the following code in simple terms, line by line if necessary. Describe what it does, how it works, and any important concepts used: [CODE]"
+  },
+  {
+    "id": "2",
+    "title": "Bug Finder & Debugger",
+    "description": "Find bugs in code, explain the issues, and provide corrected versions.",
+    "prompt": "Act as a senior software engineer specializing in debugging. Analyze the following code, identify all bugs and potential issues, explain why they occur, and provide the fully corrected code: [CODE]"
+  },
+  {
+    "id": "3",
+    "title": "Code Optimizer",
+    "description": "Improve code performance, readability, and efficiency while keeping the same functionality.",
+    "prompt": "Act as a performance optimization expert. Optimize the following code for better performance, readability, and best practices. Explain the changes you made and why they are better: [CODE]"
+  },
+  {
+    "id": "4",
+    "title": "Algorithm Designer",
+    "description": "Design efficient algorithms and data structures for specific problems.",
+    "prompt": "Act as an algorithms specialist. Design an efficient algorithm to solve this problem: [PROBLEM DESCRIPTION]. Explain the approach, time and space complexity, and provide clean code implementation in [PROGRAMMING LANGUAGE]."
+  },
+  {
+    "id": "5",
+    "title": "Code Converter",
+    "description": "Convert code from one programming language to another while preserving functionality.",
+    "prompt": "Act as a polyglot programmer. Convert the following code from [SOURCE LANGUAGE] to [TARGET LANGUAGE]. Keep the same functionality, use idiomatic style of the target language, and add comments where helpful: [CODE]"
+  },
+  {
+    "id": "6",
+    "title": "Unit Test Generator",
+    "description": "Generate comprehensive unit tests for given functions or classes.",
+    "prompt": "Act as a test-driven development expert. Write thorough unit tests for the following code using [TESTING FRAMEWORK]. Cover edge cases, normal cases, and error cases: [CODE]"
+  },
+  {
+    "id": "7",
+    "title": "Software Architecture Advisor",
+    "description": "Suggest clean and scalable architecture for software projects.",
+    "prompt": "Act as a software architect. Propose a clean and scalable architecture for this project: [PROJECT DESCRIPTION]. Include recommended design patterns, folder structure, technology stack suggestions, and reasoning behind your choices."
+  },
+  {
+    "id": "8",
+    "title": "Code Reviewer",
+    "description": "Perform professional code reviews focusing on quality, security, and best practices.",
+    "prompt": "Act as a senior code reviewer. Review the following code thoroughly. Comment on code quality, readability, potential bugs, security issues, performance, and adherence to best practices. Suggest improvements: [CODE]"
+  },
+  {
+    "id": "9",
+    "title": "Refactoring Expert",
+    "description": "Refactor messy or legacy code into clean, maintainable, and modern code.",
+    "prompt": "Act as a refactoring specialist. Refactor the following code to improve readability, maintainability, and structure without changing its behavior. Explain the key improvements: [CODE]"
+  },
+  {
+    "id": "10",
+    "title": "Interview Question Solver",
+    "description": "Solve coding interview questions with clear explanations and optimal solutions.",
+    "prompt": "Act as a coding interview coach. Solve this coding interview question step by step. Explain your thought process, discuss different approaches, analyze time and space complexity, and provide the optimal solution in [PROGRAMMING LANGUAGE]: [QUESTION]"
+  }
+]
