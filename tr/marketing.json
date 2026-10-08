@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Pazarlama Stratejisi Oluşturucu",
+    "description": "Bir ürün, hizmet veya marka için eksiksiz pazarlama stratejisi geliştir.",
+    "prompt": "Deneyimli bir pazarlama stratejisti gibi davran. [ÜRÜN / HİZMET / MARKA] için kapsamlı bir pazarlama stratejisi oluştur. Hedef kitle, konumlandırma, ana kanallar, içerik planı, bütçe dağılımı önerileri ve KPI’ları dahil et. Gerçekçi ve uygulanabilir olsun."
+  },
+  {
+    "id": "2",
+    "title": "Sosyal Medya Pazarlama Uzmanı",
+    "description": "Farklı platformlar için etkili sosyal medya kampanyaları ve içerik stratejileri planla.",
+    "prompt": "Sosyal medya pazarlama uzmanı gibi davran. [MARKA VEYA ÜRÜN] için [PLATFORMLAR] üzerinde 30 günlük bir sosyal medya içerik ve kampanya planı oluştur. Gönderi fikirleri, içerik sütunları, paylaşım sıklığı, hashtag stratejisi ve etkileşim taktiklerini dahil et."
+  },
+  {
+    "id": "3",
+    "title": "Reklam Metni Yazarı",
+    "description": "Google, Meta, TikTok ve diğer platformlar için yüksek dönüşümlü reklam metinleri yaz.",
+    "prompt": "Performans pazarlama metin yazarı gibi davran. [KİTLE] hedefleyen [ÜRÜN VEYA HİZMET] için 5 yüksek dönüşümlü reklam varyasyonu yaz. [PLATFORM] (örneğin Facebook Ads, Google Ads, TikTok) için versiyonlar oluştur. Başlıklar, ana metin ve çağrıları dahil et."
+  },
+  {
+    "id": "4",
+    "title": "E-posta Pazarlama Uzmanı",
+    "description": "Etkili e-posta pazarlama serileri ve kampanyaları tasarla.",
+    "prompt": "E-posta pazarlama uzmanı gibi davran. [AMAÇ] (örneğin hoş geldin serisi, terk edilmiş sepet, ürün lansmanı) için eksiksiz bir e-posta serisi oluştur. [SAYI] e-posta için konu satırları, önizleme metinleri ve tam e-posta gövdeleri yaz. Yüksek açılma ve tıklama oranlarına odaklan."
+  },
+  {
+    "id": "5",
+    "title": "İçerik Pazarlama Planlayıcı",
+    "description": "Hedef kitleyi çeken ve dönüştüren içerik pazarlama stratejileri oluştur.",
+    "prompt": "İçerik pazarlama stratejisti gibi davran. [MARKA VEYA NİŞ] için bir içerik pazarlama planı geliştir. İçerik sütunlarını, formatları, dağıtım kanallarını, SEO fırsatlarını ve 3 aylık içerik takvimi taslağını tanımla."
+  },
+  {
+    "id": "6",
+    "title": "Markalaşma Danışmanı",
+    "description": "Marka kimliğini, sesini ve konumlandırmasını tanımlamaya veya geliştirmeye yardımcı ol.",
+    "prompt": "Markalaşma uzmanı gibi davran. [MARKA VEYA İŞLETME] için marka kimliğini geliştirmeye veya iyileştirmeye yardımcı ol. Marka konumlandırması, benzersiz değer önerisi, marka sesi, kişiliği ve mesajlaşma yönergelerini tanımla."
+  },
+  {
+    "id": "7",
+    "title": "Müşteri Yolculuğu Haritalayıcı",
+    "description": "Tam müşteri yolculuğunu haritalandır ve her aşamada pazarlama fırsatlarını belirle.",
+    "prompt": "Müşteri deneyimi ve pazarlama uzmanı gibi davran. [ÜRÜN VEYA HİZMET] için eksiksiz müşteri yolculuğunu haritalandır. Farkındalıktan sadakate kadar aşamaları, ana temas noktalarını, sorun noktalarını ve her aşama için pazarlama aksiyonlarını belirle."
+  },
+  {
+    "id": "8",
+    "title": "Influencer Pazarlama Stratejisti",
+    "description": "Etkili influencer pazarlama kampanyaları ve iş birliği stratejileri oluştur.",
+    "prompt": "Influencer pazarlama uzmanı gibi davran. [MARKA VEYA ÜRÜN] için bir influencer pazarlama stratejisi tasarla. Influencer türlerini, iş birliği formatlarını, ulaşım yaklaşımını, kampanya hedeflerini ve başarı metriklerini öner."
+  },
+  {
+    "id": "9",
+    "title": "Pazarlama Hunisi Oluşturucu",
+    "description": "Potansiyel müşterileri farkındalıktan dönüşüme yönlendiren pazarlama hunileri tasarla.",
+    "prompt": "Huni pazarlama uzmanı gibi davran. [ÜRÜN VEYA HİZMET] için eksiksiz bir pazarlama hunisi oluştur. Her aşamayı (TOFU, MOFU, BOFU) tanımla, önerilen içerik ve teklifleri, trafik kaynaklarını ve dönüşüm optimizasyon fikirlerini belirt."
+  },
+  {
+    "id": "10",
+    "title": "Rakip Pazarlama Analisti",
+    "description": "Rakiplerin pazarlama stratejilerini analiz et ve onları geride bırakacak fırsatları bul.",
+    "prompt": "Rekabetçi pazarlama analisti gibi davran. [SEKTÖR] sektöründeki [RAKİP MARKALAR]ın pazarlama stratejilerini analiz et. Kanallarını, mesajlaşmalarını, içeriklerini, reklamlarını ve güçlü/zayıf yönlerini karşılaştır. [SENİN MARKAN] için farklılaşma ve kazanma yolları öner."
+  }
+]
