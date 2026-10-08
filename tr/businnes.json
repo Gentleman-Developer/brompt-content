@@ -1,20 +1,62 @@
 [
   {
-    "id": 1,
-    "title": "Test Businness",
-    "description": "Test Description.",
-    "prompt": "Test Prompt"
+    "id": "1",
+    "title": "İş Planı",
+    "description": "Yeni bir iş fikri için detaylı bir iş planı oluştur.",
+    "prompt": "Deneyimli bir iş danışmanı gibi davran. [İŞ FİKRİ] için detaylı bir iş planı oluştur. Hedef kitleyi, çözülen sorunu, değer önerisini, iş modelini, gelir kaynaklarını, pazarlama stratejisini, rakipleri, başlangıç maliyetlerini, olası riskleri ve 12 aylık büyüme planını dahil et. Planı pratik ve gerçekçi tut."
   },
   {
-    "id": 2,
-    "title": "Test Businness 2",
-    "description": "Test Description. 2",
-    "prompt": "Test Prompt 2"
+    "id": "2",
+    "title": "Pazar Araştırması",
+    "description": "Bir pazarı, hedef kitleyi, rakipleri ve iş fırsatlarını analiz et.",
+    "prompt": "Bir pazar araştırması analisti gibi davran. [ÜRÜN VEYA HİZMET] için [ÜLKE VEYA PAZAR] pazarını analiz et. Hedef müşterileri, ihtiyaçlarını ve sorunlarını, ana rakipleri, pazar fırsatlarını, olası tehditleri ve ürün veya hizmeti farklılaştırmanın olası yollarını belirle."
   },
   {
-    "id": 3,
-    "title": "Test Businness 3",
-    "description": "Test Description 3.",
-    "prompt": "Test Prompt 3"
+    "id": "3",
+    "title": "İş Fikri Üretici",
+    "description": "Yetenekler, ilgi alanları ve mevcut kaynaklara göre gerçekçi iş fikirleri üret.",
+    "prompt": "Bir startup danışmanı gibi davran. Yeteneklerim, ilgi alanlarım, bütçem ve mevcut zamanıma göre 10 gerçekçi iş fikri üret: [YETENEKLER], [İLGİ ALANLARI], [BÜTÇE], [MEVCUT ZAMAN]. Her fikir için hedef kitleyi, gelir modelini, başlangıç gereksinimlerini, zorluk seviyesini ve başlatmak için ilk üç adımı açıkla."
   },
+  {
+    "id": "4",
+    "title": "İş Planı Oluşturucu",
+    "description": "Yönetici özeti, pazar analizi, finansal projeksiyonlar ve pazara giriş stratejisini içeren eksiksiz ve gerçekçi bir iş planı oluştur.",
+    "prompt": "Deneyimli bir iş danışmanı gibi davran. [İŞ FİKRİ] için [HEDEF PAZAR] odaklı detaylı bir iş planı oluştur. Yönetici özeti, pazar analizi, rekabet ortamı, pazarlama stratejisi, operasyon planı ve 3 yıllık finansal projeksiyonlar bölümlerini dahil et."
+  },
+  {
+    "id": "5",
+    "title": "SWOT Analizi Uzmanı",
+    "description": "Bir şirket, ürün veya iş fikri için güçlü yönler, zayıf yönler, fırsatlar ve tehditleri belirleyen derinlemesine SWOT analizi yap.",
+    "prompt": "Stratejik bir iş analisti gibi davran. [ŞİRKET / ÜRÜN / İŞ FİKRİ] için kapsamlı bir SWOT analizi yap. Her kategori altında detaylı noktalar belirt ve bulgulara dayalı uygulanabilir stratejiler öner."
+  },
+  {
+    "id": "6",
+    "title": "Fiyatlandırma Stratejisi Danışmanı",
+    "description": "Maliyetler, pazar talebi ve rakip analizine dayalı akıllı ve rekabetçi fiyatlandırma stratejileri geliştir.",
+    "prompt": "Bir fiyatlandırma stratejisi uzmanı gibi davran. [ÜRÜN VEYA HİZMET] için en iyi fiyatlandırma modelini analiz et ve öner. Maliyet yapısını, rakip fiyatlarını, algılanan değeri, müşterinin ödeme isteğini dikkate al ve artıları ve eksileriyle en az 3 farklı fiyatlandırma stratejisi öner."
+  },
+  {
+    "id": "7",
+    "title": "Müşteri Personası Oluşturucu",
+    "description": "Hedef kitlenin ihtiyaçlarını ve davranışlarını daha iyi anlamak için detaylı ve gerçekçi müşteri personaları oluştur.",
+    "prompt": "Bir müşteri araştırma uzmanı gibi davran. [ÜRÜN VEYA HİZMET] için 3 detaylı alıcı personası oluştur. Her persona için demografik bilgileri, hedefleri, sorun noktalarını, satın alma davranışını, tercih edilen kanalları ve ürünün sorunlarını nasıl çözdüğünü dahil et."
+  },
+  {
+    "id": "8",
+    "title": "Satış Hunisi Optimize Edici",
+    "description": "Farkındalıktan satın almaya dönüşüm oranlarını artırmak için satış hunilerini tasarla ve iyileştir.",
+    "prompt": "Bir dönüşüm oranı optimizasyonu uzmanı gibi davran. [ÜRÜN VEYA HİZMET] için eksiksiz bir satış hunisi tasarla. Her aşamayı (farkındalık, ilgi, karar, eylem) haritalandır, her aşama için içerik ve taktikler öner ve düşüş oranlarını azaltacak fikirler sun."
+  },
+  {
+    "id": "9",
+    "title": "Rakip Analizi Uzmanı",
+    "description": "Güçlü yönleri, zayıf yönleri ve pazar konumlandırma fırsatlarını ortaya çıkarmak için rakipleri derinlemesine analiz et.",
+    "prompt": "Bir rekabet istihbaratı analisti gibi davran. [İŞLETME] için en iyi 3 rakibine karşı detaylı bir rakip analizi yap. Ürün özelliklerini, fiyatlandırmayı, pazarlama stratejilerini, güçlü ve zayıf yönleri karşılaştır ve farklılaşma için boşlukları veya fırsatları belirle."
+  },
+  {
+    "id": "10",
+    "title": "Finansal Projeksiyon Üretici",
+    "description": "Gelir, giderler, nakit akışı ve başabaş analizini içeren gerçekçi finansal tahminler oluştur.",
+    "prompt": "Bir finansal modelleme uzmanı gibi davran. [İŞ FİKRİ] için 12 aylık ve 3 yıllık finansal projeksiyon oluştur. Tahmini geliri, sabit ve değişken maliyetleri, nakit akış tablosunu, başabaş analizini ve temel varsayımları dahil et. Verileri net ve yapılandırılmış bir formatta sun."
+  }
 ]
