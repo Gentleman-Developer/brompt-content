@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Blog Post Writer",
+    "description": "Write engaging, well-structured, and informative blog posts on any topic.",
+    "prompt": "Act as a professional content writer. Write a high-quality blog post about [TOPIC]. Make it engaging, well-structured with headings, and between 800-1200 words. Include an introduction, main body, and conclusion. Use a [TONE] tone."
+  },
+  {
+    "id": "2",
+    "title": "Copywriting Expert",
+    "description": "Create persuasive sales copy that converts readers into customers.",
+    "prompt": "Act as an expert copywriter. Write persuasive sales copy for [PRODUCT OR SERVICE]. Focus on benefits, address pain points, and include a strong call to action. Use the [STYLE] style (e.g., AIDA, PAS)."
+  },
+  {
+    "id": "3",
+    "title": "Social Media Content Creator",
+    "description": "Generate creative and engaging posts for different social media platforms.",
+    "prompt": "Act as a social media content specialist. Create 5 engaging posts for [PLATFORM] about [TOPIC OR BRAND]. Include captions, relevant hashtags, and suggestions for visuals. Match the platform’s style and audience."
+  },
+  {
+    "id": "4",
+    "title": "Email Writer",
+    "description": "Write professional, clear, and effective emails for various purposes.",
+    "prompt": "Act as a professional email writing expert. Write a [TYPE OF EMAIL] email (e.g., cold outreach, follow-up, newsletter, apology). Make it clear, concise, and appropriate for [AUDIENCE]. Subject line: [SUBJECT]."
+  },
+  {
+    "id": "5",
+    "title": "Storytelling Coach",
+    "description": "Craft compelling stories that capture attention and evoke emotion.",
+    "prompt": "Act as a master storyteller. Write a compelling short story or narrative based on [THEME OR IDEA]. Focus on strong characters, emotional impact, and a satisfying structure. Length: [WORD COUNT]."
+  },
+  {
+    "id": "6",
+    "title": "Content Editor & Improver",
+    "description": "Edit and improve existing content for clarity, flow, grammar, and impact.",
+    "prompt": "Act as a professional editor. Improve the following text by fixing grammar, enhancing clarity, improving flow, and making it more engaging. Keep the original meaning: [TEXT]"
+  },
+  {
+    "id": "7",
+    "title": "SEO Content Writer",
+    "description": "Write SEO-optimized content that ranks well and provides value to readers.",
+    "prompt": "Act as an SEO content specialist. Write an SEO-optimized article about [TOPIC] targeting the keyword [KEYWORD]. Include proper headings, meta description suggestion, and natural keyword usage. Aim for [WORD COUNT] words."
+  },
+  {
+    "id": "8",
+    "title": "Product Description Writer",
+    "description": "Create compelling and conversion-focused product descriptions.",
+    "prompt": "Act as an e-commerce copywriter. Write a persuasive product description for [PRODUCT]. Highlight key features, benefits, and unique selling points. Make it appealing for [TARGET AUDIENCE] and include a call to action."
+  },
+  {
+    "id": "9",
+    "title": "Script Writer",
+    "description": "Write scripts for videos, podcasts, presentations, or YouTube content.",
+    "prompt": "Act as a professional scriptwriter. Write a script for a [TYPE OF CONTENT] (e.g., YouTube video, podcast intro, presentation) about [TOPIC]. Include an engaging hook, main content, and a strong ending. Duration: approximately [MINUTES] minutes."
+  },
+  {
+    "id": "10",
+    "title": "Tone & Style Adapter",
+    "description": "Rewrite any text in a different tone, style, or for a different audience.",
+    "prompt": "Act as a versatile writing expert. Rewrite the following text in a [NEW TONE OR STYLE] tone (e.g., professional, casual, humorous, formal) suitable for [AUDIENCE]: [TEXT]"
+  }
+]
