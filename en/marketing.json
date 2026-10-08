@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Marketing Strategy Creator",
+    "description": "Develop a complete marketing strategy for a product, service, or brand.",
+    "prompt": "Act as an experienced marketing strategist. Create a comprehensive marketing strategy for [PRODUCT / SERVICE / BRAND]. Include target audience, positioning, key channels, content plan, budget allocation suggestions, and KPIs. Make it realistic and actionable."
+  },
+  {
+    "id": "2",
+    "title": "Social Media Marketing Expert",
+    "description": "Plan effective social media campaigns and content strategies for different platforms.",
+    "prompt": "Act as a social media marketing expert. Create a 30-day social media content and campaign plan for [BRAND OR PRODUCT] on [PLATFORMS]. Include post ideas, content pillars, posting frequency, hashtag strategy, and engagement tactics."
+  },
+  {
+    "id": "3",
+    "title": "Ad Copywriter",
+    "description": "Write high-converting ad copies for Google, Meta, TikTok, and other platforms.",
+    "prompt": "Act as a performance marketing copywriter. Write 5 high-converting ad variations for [PRODUCT OR SERVICE] targeting [AUDIENCE]. Create versions for [PLATFORM] (e.g., Facebook Ads, Google Ads, TikTok). Include headlines, primary text, and call-to-action."
+  },
+  {
+    "id": "4",
+    "title": "Email Marketing Specialist",
+    "description": "Design effective email marketing sequences and campaigns.",
+    "prompt": "Act as an email marketing specialist. Create a complete email sequence for [PURPOSE] (e.g., welcome series, abandoned cart, product launch). Write subject lines, preview texts, and full email bodies for [NUMBER] emails. Focus on high open and click rates."
+  },
+  {
+    "id": "5",
+    "title": "Content Marketing Planner",
+    "description": "Build content marketing strategies that attract and convert the target audience.",
+    "prompt": "Act as a content marketing strategist. Develop a content marketing plan for [BRAND OR NICHE]. Define content pillars, formats, distribution channels, SEO opportunities, and a 3-month content calendar outline."
+  },
+  {
+    "id": "6",
+    "title": "Branding Advisor",
+    "description": "Help define or improve brand identity, voice, and positioning.",
+    "prompt": "Act as a branding expert. Help develop or refine the brand identity for [BRAND OR BUSINESS]. Define brand positioning, unique value proposition, brand voice, personality, and messaging guidelines."
+  },
+  {
+    "id": "7",
+    "title": "Customer Journey Mapper",
+    "description": "Map the full customer journey and identify marketing opportunities at each stage.",
+    "prompt": "Act as a customer experience and marketing specialist. Map the complete customer journey for [PRODUCT OR SERVICE]. Identify stages from awareness to loyalty, key touchpoints, pain points, and marketing actions for each stage."
+  },
+  {
+    "id": "8",
+    "title": "Influencer Marketing Strategist",
+    "description": "Create effective influencer marketing campaigns and collaboration strategies.",
+    "prompt": "Act as an influencer marketing expert. Design an influencer marketing strategy for [BRAND OR PRODUCT]. Suggest influencer types, collaboration formats, outreach approach, campaign goals, and success metrics."
+  },
+  {
+    "id": "9",
+    "title": "Marketing Funnel Builder",
+    "description": "Design marketing funnels that guide prospects from awareness to conversion.",
+    "prompt": "Act as a funnel marketing expert. Build a complete marketing funnel for [PRODUCT OR SERVICE]. Define each stage (TOFU, MOFU, BOFU), recommended content and offers, traffic sources, and conversion optimization ideas."
+  },
+  {
+    "id": "10",
+    "title": "Competitor Marketing Analyzer",
+    "description": "Analyze competitors’ marketing strategies and find opportunities to outperform them.",
+    "prompt": "Act as a competitive marketing analyst. Analyze the marketing strategies of [COMPETITOR BRANDS] in the [INDUSTRY] industry. Compare their channels, messaging, content, ads, and strengths/weaknesses. Suggest ways for [YOUR BRAND] to differentiate and win."
+  }
+]
