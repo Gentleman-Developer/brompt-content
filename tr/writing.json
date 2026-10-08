@@ -1,62 +1,62 @@
 [
   {
     "id": "1",
-    "title": "Blog Post Writer",
-    "description": "Write engaging, well-structured, and informative blog posts on any topic.",
-    "prompt": "Act as a professional content writer. Write a high-quality blog post about [TOPIC]. Make it engaging, well-structured with headings, and between 800-1200 words. Include an introduction, main body, and conclusion. Use a [TONE] tone."
+    "title": "Blog Yazısı Yazarı",
+    "description": "Herhangi bir konuda ilgi çekici, iyi yapılandırılmış ve bilgilendirici blog yazıları yaz.",
+    "prompt": "Profesyonel bir içerik yazarı gibi davran. [KONU] hakkında yüksek kaliteli bir blog yazısı yaz. İlgi çekici olsun, başlıklarla iyi yapılandırılmış olsun ve 800-1200 kelime arasında olsun. Giriş, ana gövde ve sonuç bölümlerini dahil et. [TON] bir ton kullan."
   },
   {
     "id": "2",
-    "title": "Copywriting Expert",
-    "description": "Create persuasive sales copy that converts readers into customers.",
-    "prompt": "Act as an expert copywriter. Write persuasive sales copy for [PRODUCT OR SERVICE]. Focus on benefits, address pain points, and include a strong call to action. Use the [STYLE] style (e.g., AIDA, PAS)."
+    "title": "Metin Yazarlığı Uzmanı",
+    "description": "Okuyucuları müşteriye dönüştüren ikna edici satış metinleri oluştur.",
+    "prompt": "Uzman bir metin yazarı gibi davran. [ÜRÜN VEYA HİZMET] için ikna edici satış metni yaz. Faydalara odaklan, sorun noktalarını ele al ve güçlü bir çağrı ile bitir. [STİL] stilini kullan (örneğin AIDA, PAS)."
   },
   {
     "id": "3",
-    "title": "Social Media Content Creator",
-    "description": "Generate creative and engaging posts for different social media platforms.",
-    "prompt": "Act as a social media content specialist. Create 5 engaging posts for [PLATFORM] about [TOPIC OR BRAND]. Include captions, relevant hashtags, and suggestions for visuals. Match the platform’s style and audience."
+    "title": "Sosyal Medya İçerik Üreticisi",
+    "description": "Farklı sosyal medya platformları için yaratıcı ve ilgi çekici gönderiler oluştur.",
+    "prompt": "Sosyal medya içerik uzmanı gibi davran. [PLATFORM] için [KONU VEYA MARKA] hakkında 5 ilgi çekici gönderi oluştur. Başlıkları, ilgili hashtag’leri ve görsel önerilerini dahil et. Platformun stiline ve kitlesine uygun olsun."
   },
   {
     "id": "4",
-    "title": "Email Writer",
-    "description": "Write professional, clear, and effective emails for various purposes.",
-    "prompt": "Act as a professional email writing expert. Write a [TYPE OF EMAIL] email (e.g., cold outreach, follow-up, newsletter, apology). Make it clear, concise, and appropriate for [AUDIENCE]. Subject line: [SUBJECT]."
+    "title": "E-posta Yazarı",
+    "description": "Çeşitli amaçlar için profesyonel, net ve etkili e-postalar yaz.",
+    "prompt": "Profesyonel bir e-posta yazma uzmanı gibi davran. [E-POSTA TÜRÜ] e-postası yaz (örneğin soğuk iletişim, takip, bülten, özür). Net, kısa ve [KİTLE] için uygun olsun. Konu satırı: [KONU]."
   },
   {
     "id": "5",
-    "title": "Storytelling Coach",
-    "description": "Craft compelling stories that capture attention and evoke emotion.",
-    "prompt": "Act as a master storyteller. Write a compelling short story or narrative based on [THEME OR IDEA]. Focus on strong characters, emotional impact, and a satisfying structure. Length: [WORD COUNT]."
+    "title": "Hikaye Anlatma Koçu",
+    "description": "Dikkat çeken ve duygu uyandıran etkileyici hikayeler oluştur.",
+    "prompt": "Usta bir hikaye anlatıcısı gibi davran. [TEMA VEYA FİKİR] üzerine etkileyici bir kısa hikaye veya anlatı yaz. Güçlü karakterlere, duygusal etkiye ve tatmin edici bir yapıya odaklan. Uzunluk: [KELİME SAYISI]."
   },
   {
     "id": "6",
-    "title": "Content Editor & Improver",
-    "description": "Edit and improve existing content for clarity, flow, grammar, and impact.",
-    "prompt": "Act as a professional editor. Improve the following text by fixing grammar, enhancing clarity, improving flow, and making it more engaging. Keep the original meaning: [TEXT]"
+    "title": "İçerik Editörü & İyileştirici",
+    "description": "Mevcut içeriği netlik, akış, dil bilgisi ve etki açısından düzenle ve iyileştir.",
+    "prompt": "Profesyonel bir editör gibi davran. Aşağıdaki metni dil bilgisi hatalarını düzelterek, netliği artırarak, akışı iyileştirerek ve daha ilgi çekici hale getirerek geliştir. Orijinal anlamı koru: [METİN]"
   },
   {
     "id": "7",
-    "title": "SEO Content Writer",
-    "description": "Write SEO-optimized content that ranks well and provides value to readers.",
-    "prompt": "Act as an SEO content specialist. Write an SEO-optimized article about [TOPIC] targeting the keyword [KEYWORD]. Include proper headings, meta description suggestion, and natural keyword usage. Aim for [WORD COUNT] words."
+    "title": "SEO İçerik Yazarı",
+    "description": "Hem sıralamada yükselen hem de okuyucuya değer katan SEO uyumlu içerikler yaz.",
+    "prompt": "SEO içerik uzmanı gibi davran. [ANAHTAR KELİME] anahtar kelimesini hedefleyerek [KONU] hakkında SEO uyumlu bir makale yaz. Uygun başlıklar, meta açıklama önerisi ve doğal anahtar kelime kullanımı dahil et. [KELİME SAYISI] kelime hedefle."
   },
   {
     "id": "8",
-    "title": "Product Description Writer",
-    "description": "Create compelling and conversion-focused product descriptions.",
-    "prompt": "Act as an e-commerce copywriter. Write a persuasive product description for [PRODUCT]. Highlight key features, benefits, and unique selling points. Make it appealing for [TARGET AUDIENCE] and include a call to action."
+    "title": "Ürün Açıklaması Yazarı",
+    "description": "İkna edici ve dönüşüm odaklı ürün açıklamaları oluştur.",
+    "prompt": "E-ticaret metin yazarı gibi davran. [ÜRÜN] için ikna edici bir ürün açıklaması yaz. Temel özellikleri, faydaları ve benzersiz satış noktalarını vurgula. [HEDEF KİTLE] için çekici olsun ve bir çağrı ekle."
   },
   {
     "id": "9",
-    "title": "Script Writer",
-    "description": "Write scripts for videos, podcasts, presentations, or YouTube content.",
-    "prompt": "Act as a professional scriptwriter. Write a script for a [TYPE OF CONTENT] (e.g., YouTube video, podcast intro, presentation) about [TOPIC]. Include an engaging hook, main content, and a strong ending. Duration: approximately [MINUTES] minutes."
+    "title": "Senaryo Yazarı",
+    "description": "Videolar, podcast’ler, sunumlar veya YouTube içerikleri için senaryolar yaz.",
+    "prompt": "Profesyonel bir senaryo yazarı gibi davran. [İÇERİK TÜRÜ] (örneğin YouTube videosu, podcast girişi, sunum) için [KONU] hakkında bir senaryo yaz. İlgi çekici bir giriş, ana içerik ve güçlü bir bitiş dahil et. Süre: yaklaşık [DAKİKA] dakika."
   },
   {
     "id": "10",
-    "title": "Tone & Style Adapter",
-    "description": "Rewrite any text in a different tone, style, or for a different audience.",
-    "prompt": "Act as a versatile writing expert. Rewrite the following text in a [NEW TONE OR STYLE] tone (e.g., professional, casual, humorous, formal) suitable for [AUDIENCE]: [TEXT]"
+    "title": "Ton & Stil Uyarlayıcı",
+    "description": "Herhangi bir metni farklı bir tona, stile veya farklı bir kitleye göre yeniden yaz.",
+    "prompt": "Çok yönlü bir yazı uzmanı gibi davran. Aşağıdaki metni [YENİ TON VEYA STİL] tonunda (örneğin profesyonel, samimi, mizahi, resmi) ve [KİTLE] için uygun şekilde yeniden yaz: [METİN]"
   }
 ]
