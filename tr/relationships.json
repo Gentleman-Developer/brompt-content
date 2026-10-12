@@ -151,7 +151,7 @@
   },
   {
     "id": "26",
-    "title": "Soğuk Savaş Bitirici",
+    "title": "Küsme Bitirici",
     "description": "İlişkideki küsme veya duygusal mesafeyi bitir.",
     "prompt": "Act as a relationship de-escalation expert. There is currently a cold war / silent treatment between me and my partner because of [REASON]. Give me a smart and emotionally mature strategy to break the silence and reconnect."
   },
