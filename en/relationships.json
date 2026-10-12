@@ -1,26 +1,62 @@
 [
   {
-    "id": 1,
-    "title": "Understand My Partner Better",
-    "description": "Fill in all the fields in brackets before using this prompt. If you want the AI to analyze a specific situation from a photo, attach the relevant image where indicated.",
-    "prompt": "About me:\n- Name: [Your name]\n- Age: [Your age]\n\nAbout my partner:\n- Name: [Partner's name]\n- Age: [Partner's age]\n- Relationship length: [How long you have been together]\n\nWhat happened:\n[Describe the situation in detail]\n\nWhat I said or did:\n[Describe your words or actions]\n\nWhat my partner said or did:\n[Describe your partner's words or actions]\n\nIf the situation is shown in a message, conversation, screenshot, or photo, attach the image here:\n[Attach image if applicable]\n\nAnalyze the situation from both perspectives. Explain what each person might be feeling, what could have caused the misunderstanding, and how I could communicate my thoughts calmly and clearly.\n\nIf an image is attached, use the information visible in the image as additional context. Do not invent information that cannot be seen or understood from the image.\n\nDo not simply decide who is right or wrong. Focus on understanding both perspectives and improving communication."
+    "id": "1",
+    "title": "Relationship Compatibility Analyzer",
+    "description": "Analyze the compatibility between two people based on personality, values, and lifestyle.",
+    "prompt": "Act as a relationship expert. Analyze the compatibility between me and [PERSON DESCRIPTION OR NAME]. Consider personality traits, values, communication styles, life goals, and potential challenges. Give an honest and balanced assessment with strengths, possible issues, and advice."
   },
   {
-    "id": 2,
-    "title": "Plan a Memorable Date",
-    "description": "Fill in all the fields in brackets before using this prompt. Add a photo if you want the AI to consider a specific location, outfit, venue, or other visual detail when creating the date ideas.",
-    "prompt": "Location: [City or area]\nBudget: [Your budget and currency]\nAvailable time: [Number of hours]\nRelationship stage: [First date / New relationship / Long-term relationship / Married]\nOur interests: [Things we both enjoy]\nThings we do not like: [Things to avoid]\nSpecial occasion: [Birthday / Anniversary / Normal date / Other]\n\nIf there is a specific location, venue, outfit, or visual detail that you want the AI to consider, attach the image here:\n[Attach image if applicable]\n\nGive me 10 creative date ideas based on the information above.\n\nAvoid generic suggestions such as simply going to a restaurant or watching a movie unless they are combined with a more creative activity.\n\nFor each idea, include:\n- What we would do\n- Approximate cost\n- How long it would take\n- What we need to bring or prepare\n- Why it could be memorable\n\nIf an image is attached, use the visible details from the image when relevant. Do not assume details that cannot be clearly identified."
+    "id": "2",
+    "title": "Conversation Starter Generator",
+    "description": "Create unique and engaging conversation starters for dating or deepening a relationship.",
+    "prompt": "Act as a dating and communication coach. Generate 10 creative and meaningful conversation starters for [SITUATION] (e.g., first date, long-term partner, online chat). Make them thoughtful, fun, and designed to create real connection."
   },
   {
-    "id": 3,
-    "title": "Start a Deeper Conversation",
-    "description": "Fill in the fields in brackets before using this prompt. You can also attach an image of something meaningful to you or your partner if you want the AI to create questions based on it.",
-    "prompt": "We have been together for: [Relationship length]\nOur ages: [Your age] and [Partner's age]\n\nThings we already know about each other:\n[Write a few things you already know]\n\nTopics we enjoy talking about:\n[Topics you both enjoy]\n\nTopics we would like to understand better:\n[Topics you want to explore]\n\nIf you have a photo, screenshot, memory, object, place, or other visual reference that you want the questions to be based on, attach it here:\n[Attach image if applicable]\n\nCreate 15 meaningful conversation questions that can help us:\n- Learn something new about each other\n- Talk about our future\n- Share childhood memories\n- Understand each other's dreams and fears\n- Discuss our values and expectations\n- Strengthen our emotional connection\n\nMix the questions between playful, romantic, deep, thoughtful, and unexpected.\n\nIf an image is attached, use it as inspiration when creating relevant questions. Do not make assumptions about information that cannot be determined from the image.\n\nAvoid generic questions such as \"What is your favorite movie?\""
+    "id": "3",
+    "title": "Conflict Resolution Advisor",
+    "description": "Help resolve arguments and improve communication during relationship conflicts.",
+    "prompt": "Act as a couples therapist. Help me handle this relationship conflict: [DESCRIBE THE SITUATION]. Suggest calm and effective ways to communicate, understand both sides, and find a healthy resolution."
   },
   {
-    "id": 4,
-    "title": "Analyze Your Relationship",
-    "description":"You can copy the prompt by watching a single advertisement.",
-    "prompt": "Based on everything I’ve previously told you about my relationship, hold up a mirror to me.Be honest about my own behavior, patterns, blind spots, and contradictions — even if some of it is difficult or uncomfortable for me to hear. Point out things I may be ignoring, rationalizing, or failing to notice about the way I communicate, react, attach, or handle conflict.Don’t just validate me or take my side. Look at my behavior objectively and tell me what I might need to take responsibility for, what patterns I may be repeating, and what I could do differently.Base your analysis only on what I’ve actually shared with you. Don’t make assumptions or invent details.Most importantly, respond in the language I normally use when talking to you, and keep your tone natural, direct, and conversational."
+    "id": "4",
+    "title": "Love Language Guide",
+    "description": "Identify love languages and suggest ways to express love more effectively.",
+    "prompt": "Act as a relationship coach specializing in love languages. Based on this information: [DESCRIBE BEHAVIORS OR PREFERENCES], help me identify my love language and my partner’s possible love language. Give practical examples of how we can better express love to each other."
+  },
+  {
+    "id": "5",
+    "title": "Date Idea Creator",
+    "description": "Generate creative, romantic, and personalized date ideas.",
+    "prompt": "Act as a romance and experience designer. Suggest 8 unique and memorable date ideas for [TYPE OF COUPLE / SITUATION] (e.g., new couple, long-term relationship, low budget, adventurous). Make them thoughtful and tailored."
+  },
+  {
+    "id": "6",
+    "title": "Emotional Needs Interpreter",
+    "description": "Help understand unspoken emotional needs in a relationship.",
+    "prompt": "Act as an emotionally intelligent relationship advisor. Analyze this situation: [DESCRIBE THE BEHAVIOR OR CONVERSATION]. Help me understand the possible emotional needs behind it and how I can respond in a supportive and loving way."
+  },
+  {
+    "id": "7",
+    "title": "Long-Distance Relationship Coach",
+    "description": "Provide strategies and ideas to keep long-distance relationships strong.",
+    "prompt": "Act as a long-distance relationship expert. Give me practical advice and creative ideas to keep our connection strong. We are in a long-distance relationship because [REASON]. Include communication tips, virtual date ideas, and ways to build trust."
+  },
+  {
+    "id": "8",
+    "title": "Apology & Forgiveness Helper",
+    "description": "Craft sincere apologies and guide the process of rebuilding trust.",
+    "prompt": "Act as a relationship healer. Help me write a sincere and effective apology for [SITUATION]. Also guide me on how to rebuild trust and make things right after this issue."
+  },
+  {
+    "id": "9",
+    "title": "Relationship Future Vision",
+    "description": "Help couples explore and align their future goals and dreams together.",
+    "prompt": "Act as a relationship and life coaching expert. Help us explore our future as a couple. Ask insightful questions and guide us to discuss topics like living situation, career, family, lifestyle, and shared dreams in a healthy way."
+  },
+  {
+    "id": "10",
+    "title": "Toxic Pattern Detector",
+    "description": "Identify unhealthy patterns in a relationship and suggest healthier alternatives.",
+    "prompt": "Act as a psychologically aware relationship advisor. Analyze this relationship dynamic: [DESCRIBE THE PATTERN OR SITUATION]. Identify any potentially unhealthy or toxic patterns, explain why they are harmful, and suggest healthier ways to communicate and behave."
   }
 ]
