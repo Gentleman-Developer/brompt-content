@@ -1,20 +1,62 @@
 [
   {
-    "id": 1,
-    "title": "Partnerimi Daha İyi Anla",
-    "description": "Bu promptu kullanmadan önce köşeli parantez içindeki tüm alanları doldurun. Belirli bir durumu bir fotoğraf üzerinden analiz ettirmek istiyorsanız, belirtilen yere ilgili görseli ekleyin.",
-    "prompt": "Benim hakkımda:\n- İsim: [Adınız]\n- Yaş: [Yaşınız]\n\nPartnerim hakkında:\n- İsim: [Partnerinizin adı]\n- Yaş: [Partnerinizin yaşı]\n- İlişki süresi: [Ne kadar süredir birliktesiniz]\n\nNe oldu:\n[Durumu ayrıntılı şekilde açıklayın]\n\nBen ne söyledim veya yaptım:\n[Söylediklerinizi veya yaptıklarınızı açıklayın]\n\nPartnerim ne söyledi veya yaptı:\n[Partnerinizin söylediklerini veya yaptıklarını açıklayın]\n\nDurum bir mesaj, konuşma, ekran görüntüsü veya fotoğraf üzerinde gösteriliyorsa ilgili görseli buraya ekleyin:\n[Gerekliyse görsel ekleyin]\n\nDurumu iki tarafın bakış açısından analiz et. Her iki kişinin neler hissediyor olabileceğini, yanlış anlaşılmaya neyin sebep olmuş olabileceğini ve düşüncelerimi sakin ve açık bir şekilde nasıl ifade edebileceğimi açıkla.\n\nEğer bir görsel eklenmişse, görselde görülebilen bilgileri ek bağlam olarak kullan. Görselden görülemeyen veya anlaşılamayan bilgileri uydurma.\n\nKimin haklı veya haksız olduğuna sadece karar verme. İki tarafın bakış açısını anlamaya ve iletişimi geliştirmeye odaklan."
+    "id": "1",
+    "title": "İlişki Uyumu Analisti",
+    "description": "Kişilik, değerler ve yaşam tarzına göre iki kişi arasındaki uyumu analiz et.",
+    "prompt": "Bir ilişki uzmanı gibi davran. Benimle [KİŞİ TANIMI VEYA İSİM] arasındaki uyumu analiz et. Kişilik özelliklerini, değerleri, iletişim stillerini, hayat hedeflerini ve olası zorlukları dikkate al. Güçlü yönler, olası sorunlar ve tavsiyelerle dürüst ve dengeli bir değerlendirme yap."
   },
   {
-    "id": 2,
-    "title": "Unutulmaz Bir Buluşma Planla",
-    "description": "Bu promptu kullanmadan önce köşeli parantez içindeki tüm alanları doldurun. Yapay zekânın belirli bir konumu, kıyafeti, mekânı veya başka bir görsel detayı dikkate almasını istiyorsanız ilgili görseli ekleyin.",
-    "prompt": "Konum: [Şehir veya bölge]\nBütçe: [Bütçeniz ve para birimi]\nMüsait olduğumuz süre: [Saat olarak süre]\nİlişki aşaması: [İlk buluşma / Yeni ilişki / Uzun süreli ilişki / Evli]\nOrtak ilgi alanlarımız: [İkinizin de sevdiği şeyler]\nSevmediğimiz şeyler: [Kaçınılması gereken şeyler]\nÖzel bir durum: [Doğum günü / Yıl dönümü / Normal buluşma / Diğer]\n\nYapay zekânın belirli bir konumu, mekânı, kıyafeti veya görsel detayı dikkate almasını istiyorsanız görseli buraya ekleyin:\n[Gerekliyse görsel ekleyin]\n\nYukarıdaki bilgilere göre 10 yaratıcı buluşma fikri öner.\n\nSadece restorana gitmek veya film izlemek gibi genel önerilerden kaçın. Bu aktiviteleri daha yaratıcı bir etkinlikle birleştirmediğin sürece tek başına önerme.\n\nHer fikir için şunları belirt:\n- Ne yapacağımız\n- Tahmini maliyet\n- Ne kadar süreceği\n- Yanımızda ne getirmemiz veya ne hazırlamamız gerektiği\n- Neden unutulmaz olabileceği\n\nEğer bir görsel eklenmişse, uygun olduğunda görseldeki görülebilir detayları önerilerinde kullan. Açıkça belirlenemeyen detaylar hakkında varsayım yapma."
+    "id": "2",
+    "title": "Sohbet Başlatıcı Üretici",
+    "description": "Flört veya ilişkiyi derinleştirmek için özgün ve ilgi çekici sohbet başlatıcıları oluştur.",
+    "prompt": "Flört ve iletişim koçu gibi davran. [DURUM] (örneğin ilk buluşma, uzun süreli partner, online sohbet) için 10 yaratıcı ve anlamlı sohbet başlatıcısı üret. Düşündürücü, eğlenceli ve gerçek bir bağ kurmaya yönelik olsunlar."
   },
   {
-    "id": 3,
-    "title": "Daha Derin Bir Sohbet Başlat",
-    "description": "Bu promptu kullanmadan önce köşeli parantez içindeki alanları doldurun. Yapay zekânın soruları belirli bir görselden ilham alarak oluşturmasını istiyorsanız ilgili görseli de ekleyebilirsiniz.",
-    "prompt": "Ne kadar süredir birlikteyiz: [İlişki süresi]\nYaşlarımız: [Sizin yaşınız] ve [Partnerinizin yaşı]\n\nBirbirimiz hakkında zaten bildiğimiz şeyler:\n[Birbiriniz hakkında bildiğiniz birkaç şeyi yazın]\n\nKonuşmaktan hoşlandığımız konular:\n[İkinizin de konuşmaktan hoşlandığı konular]\n\nDaha iyi anlamak istediğimiz konular:\n[Hakkında daha fazla konuşmak istediğiniz konular]\n\nSoruların belirli bir fotoğraf, ekran görüntüsü, anı, nesne, mekân veya başka bir görsel referanstan ilham almasını istiyorsanız görseli buraya ekleyin:\n[Gerekliyse görsel ekleyin]\n\nBize yardımcı olacak 15 anlamlı sohbet sorusu oluştur:\n- Birbirimiz hakkında yeni bir şey öğrenmek\n- Geleceğimiz hakkında konuşmak\n- Çocukluk anılarımızı paylaşmak\n- Birbirimizin hayallerini ve korkularını anlamak\n- Değerlerimizi ve beklentilerimizi konuşmak\n- Duygusal bağımızı güçlendirmek\n\nSoruları eğlenceli, romantik, derin, düşündürücü ve beklenmedik olacak şekilde karıştır.\n\nEğer bir görsel eklenmişse, uygun soruları oluştururken görseli ilham kaynağı olarak kullan. Görselden belirlenemeyecek bilgiler hakkında varsayım yapma.\n\n\"En sevdiğin film nedir?\" gibi genel ve sıradan sorulardan kaçın."
+    "id": "3",
+    "title": "Çatışma Çözüm Danışmanı",
+    "description": "Tartışmaları çözmeye ve ilişki çatışmalarında iletişimi geliştirmeye yardımcı ol.",
+    "prompt": "Bir çift terapisti gibi davran. Şu ilişki çatışmasını çözmeme yardımcı ol: [DURUMU ANLAT]. Sakin ve etkili iletişim yolları, her iki tarafı anlama ve sağlıklı bir çözüm bulma önerileri sun."
+  },
+  {
+    "id": "4",
+    "title": "Sevgi Dili Rehberi",
+    "description": "Sevgi dillerini belirle ve sevgiyi daha etkili ifade etme yolları öner.",
+    "prompt": "Sevgi dilleri konusunda uzman bir ilişki koçu gibi davran. Şu bilgilere göre: [DAVRANIŞLARI VEYA TERCİHLERİ ANLAT], benim sevgi dilimi ve partnerimin olası sevgi dilini belirlememe yardımcı ol. Birbirimize sevgiyi daha iyi nasıl ifade edebileceğimize dair pratik örnekler ver."
+  },
+  {
+    "id": "5",
+    "title": "Buluşma Fikri Oluşturucu",
+    "description": "Yaratıcı, romantik ve kişiselleştirilmiş buluşma fikirleri üret.",
+    "prompt": "Romantizm ve deneyim tasarımcısı gibi davran. [ÇİFT TÜRÜ / DURUM] (örneğin yeni çift, uzun süreli ilişki, düşük bütçe, maceracı) için 8 eşsiz ve unutulmaz buluşma fikri öner. Özenli ve kişiye özel olsunlar."
+  },
+  {
+    "id": "6",
+    "title": "Duygusal İhtiyaç Yorumlayıcı",
+    "description": "İlişkideki söylenmemiş duygusal ihtiyaçları anlamaya yardımcı ol.",
+    "prompt": "Duygusal zekâsı yüksek bir ilişki danışmanı gibi davran. Şu durumu analiz et: [DAVRANIŞI VEYA KONUŞMAYI ANLAT]. Arkasındaki olası duygusal ihtiyaçları anlamama ve destekleyici, sevgi dolu bir şekilde nasıl yanıt verebileceğime yardımcı ol."
+  },
+  {
+    "id": "7",
+    "title": "Uzaktan İlişki Koçu",
+    "description": "Uzaktan ilişkileri güçlü tutmak için stratejiler ve fikirler sun.",
+    "prompt": "Uzaktan ilişki uzmanı gibi davran. Bağlantımızı güçlü tutmak için pratik tavsiyeler ve yaratıcı fikirler ver. [NEDEN] yüzünden uzaktan ilişki yaşıyoruz. İletişim ipuçları, sanal buluşma fikirleri ve güven oluşturma yollarını dahil et."
+  },
+  {
+    "id": "8",
+    "title": "Özür & Affetme Yardımcısı",
+    "description": "Samimi özürler oluştur ve güveni yeniden inşa etme sürecine rehberlik et.",
+    "prompt": "Bir ilişki iyileştiricisi gibi davran. [DURUM] için samimi ve etkili bir özür yazmama yardımcı ol. Ayrıca bu sorundan sonra güveni nasıl yeniden inşa edebileceğim ve işleri nasıl düzeltebileceğim konusunda bana rehberlik et."
+  },
+  {
+    "id": "9",
+    "title": "İlişki Gelecek Vizyonu",
+    "description": "Çiftlerin gelecek hedeflerini ve hayallerini birlikte keşfetmesine ve uyumlaştırmasına yardımcı ol.",
+    "prompt": "İlişki ve yaşam koçluğu uzmanı gibi davran. Bir çift olarak geleceğimizi keşfetmemize yardımcı ol. Yaşam durumu, kariyer, aile, yaşam tarzı ve ortak hayaller gibi konuları sağlıklı bir şekilde konuşmamız için derinlemesine sorular sor ve rehberlik et."
+  },
+  {
+    "id": "10",
+    "title": "Toksik Örüntü Tespitçisi",
+    "description": "İlişkideki sağlıksız örüntüleri belirle ve daha sağlıklı alternatifler öner.",
+    "prompt": "Psikolojik farkındalığı yüksek bir ilişki danışmanı gibi davran. Şu ilişki dinamiğini analiz et: [ÖRÜNTÜYÜ VEYA DURUMU ANLAT]. Olası sağlıksız veya toksik örüntüleri belirle, neden zararlı olduklarını açıkla ve daha sağlıklı iletişim ve davranış yolları öner."
   }
 ]
