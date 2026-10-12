@@ -1,62 +1,182 @@
 [
   {
     "id": "1",
-    "title": "İlişki Uyumu Analisti",
-    "description": "Kişilik, değerler ve yaşam tarzına göre iki kişi arasındaki uyumu analiz et.",
-    "prompt": "Bir ilişki uzmanı gibi davran. Benimle [KİŞİ TANIMI VEYA İSİM] arasındaki uyumu analiz et. Kişilik özelliklerini, değerleri, iletişim stillerini, hayat hedeflerini ve olası zorlukları dikkate al. Güçlü yönler, olası sorunlar ve tavsiyelerle dürüst ve dengeli bir değerlendirme yap."
+    "title": "Çekim Gücü Oluşturucu",
+    "description": "Birinde güçlü romantik ilgi ve çekim yaratmaya yardımcı ol.",
+    "prompt": "Act as a charismatic dating and attraction expert. Help me build strong attraction with [PERSON DESCRIPTION]. Give me practical psychological tips, behavioral advice, and communication strategies to increase romantic interest naturally and confidently."
   },
   {
     "id": "2",
-    "title": "Sohbet Başlatıcı Üretici",
-    "description": "Flört veya ilişkiyi derinleştirmek için özgün ve ilgi çekici sohbet başlatıcıları oluştur.",
-    "prompt": "Flört ve iletişim koçu gibi davran. [DURUM] (örneğin ilk buluşma, uzun süreli partner, online sohbet) için 10 yaratıcı ve anlamlı sohbet başlatıcısı üret. Düşündürücü, eğlenceli ve gerçek bir bağ kurmaya yönelik olsunlar."
+    "title": "Flört Ustası",
+    "description": "Zeki, oyuncu ve çekici flört cümleleri ile teknikleri üret.",
+    "prompt": "Act as a master of flirting and social charm. Create 10 clever, playful, and confident flirting lines or techniques I can use with [PERSON OR SITUATION]. Make them natural, witty, and effective without being cringy."
   },
   {
     "id": "3",
-    "title": "Çatışma Çözüm Danışmanı",
-    "description": "Tartışmaları çözmeye ve ilişki çatışmalarında iletişimi geliştirmeye yardımcı ol.",
-    "prompt": "Bir çift terapisti gibi davran. Şu ilişki çatışmasını çözmeme yardımcı ol: [DURUMU ANLAT]. Sakin ve etkili iletişim yolları, her iki tarafı anlama ve sağlıklı bir çözüm bulma önerileri sun."
+    "title": "Baştan Çıkarma Stratejisti",
+    "description": "Birini zarafetle ve akıllıca baştan çıkarmak için strateji tasarla.",
+    "prompt": "Act as a sophisticated seduction and charm strategist. Create a smart, elegant, and non-pushy plan to attract and charm [PERSON DESCRIPTION]. Focus on mystery, emotional connection, confidence, and psychological attraction triggers."
   },
   {
     "id": "4",
-    "title": "Sevgi Dili Rehberi",
-    "description": "Sevgi dillerini belirle ve sevgiyi daha etkili ifade etme yolları öner.",
-    "prompt": "Sevgi dilleri konusunda uzman bir ilişki koçu gibi davran. Şu bilgilere göre: [DAVRANIŞLARI VEYA TERCİHLERİ ANLAT], benim sevgi dilimi ve partnerimin olası sevgi dilini belirlememe yardımcı ol. Birbirimize sevgiyi daha iyi nasıl ifade edebileceğimize dair pratik örnekler ver."
+    "title": "Mesajlaşma Oyunu Uzmanı",
+    "description": "İlgi uyandıran, manyetik ve çekici mesajlar yaz.",
+    "prompt": "Act as a texting and digital flirting expert. Help me write charming and engaging messages to [PERSON]. The goal is to create curiosity, attraction, and keep the conversation exciting. Here’s the context: [CONTEXT]."
   },
   {
     "id": "5",
-    "title": "Buluşma Fikri Oluşturucu",
-    "description": "Yaratıcı, romantik ve kişiselleştirilmiş buluşma fikirleri üret.",
-    "prompt": "Romantizm ve deneyim tasarımcısı gibi davran. [ÇİFT TÜRÜ / DURUM] (örneğin yeni çift, uzun süreli ilişki, düşük bütçe, maceracı) için 8 eşsiz ve unutulmaz buluşma fikri öner. Özenli ve kişiye özel olsunlar."
+    "title": "İlk İzlenim Optimize Edici",
+    "description": "İlk buluşmada bırakılan izlenimi güçlendirerek çekimi artır.",
+    "prompt": "Act as a first impression and body language expert. Tell me how to make a strong, attractive, and memorable first impression on [PERSON OR SITUATION]. Include advice on appearance, energy, conversation, and non-verbal communication."
   },
   {
     "id": "6",
-    "title": "Duygusal İhtiyaç Yorumlayıcı",
-    "description": "İlişkideki söylenmemiş duygusal ihtiyaçları anlamaya yardımcı ol.",
-    "prompt": "Duygusal zekâsı yüksek bir ilişki danışmanı gibi davran. Şu durumu analiz et: [DAVRANIŞI VEYA KONUŞMAYI ANLAT]. Arkasındaki olası duygusal ihtiyaçları anlamama ve destekleyici, sevgi dolu bir şekilde nasıl yanıt verebileceğime yardımcı ol."
+    "title": "Gerilim & Kimya Yaratıcı",
+    "description": "Romantik gerilim ve kimya yaratmanın zarif yollarını öğret.",
+    "prompt": "Act as an expert in romantic tension and chemistry. Teach me how to create strong emotional and physical chemistry with someone in a natural and elegant way. Give practical techniques for eye contact, voice, proximity, and conversation."
   },
   {
     "id": "7",
-    "title": "Uzaktan İlişki Koçu",
-    "description": "Uzaktan ilişkileri güçlü tutmak için stratejiler ve fikirler sun.",
-    "prompt": "Uzaktan ilişki uzmanı gibi davran. Bağlantımızı güçlü tutmak için pratik tavsiyeler ve yaratıcı fikirler ver. [NEDEN] yüzünden uzaktan ilişki yaşıyoruz. İletişim ipuçları, sanal buluşma fikirleri ve güven oluşturma yollarını dahil et."
+    "title": "Push-Pull Tekniği Koçu",
+    "description": "Çekimi artırmak için push-pull sanatını öğret.",
+    "prompt": "Act as a advanced dating dynamics coach. Teach me how to use the push-pull technique effectively with [PERSON]. Explain how to create emotional highs and lows that increase attraction while staying authentic and respectful."
   },
   {
     "id": "8",
-    "title": "Özür & Affetme Yardımcısı",
-    "description": "Samimi özürler oluştur ve güveni yeniden inşa etme sürecine rehberlik et.",
-    "prompt": "Bir ilişki iyileştiricisi gibi davran. [DURUM] için samimi ve etkili bir özür yazmama yardımcı ol. Ayrıca bu sorundan sonra güveni nasıl yeniden inşa edebileceğim ve işleri nasıl düzeltebileceğim konusunda bana rehberlik et."
+    "title": "Gizem & Merak Oluşturucu",
+    "description": "Daha gizemli ve ilgi çekici hale gelerek arzuyu artır.",
+    "prompt": "Act as a specialist in mystery and intrigue. Show me how to become more mysterious and fascinating in the eyes of [PERSON]. Give advice on what to share, what to hold back, storytelling, and creating curiosity."
   },
   {
     "id": "9",
-    "title": "İlişki Gelecek Vizyonu",
-    "description": "Çiftlerin gelecek hedeflerini ve hayallerini birlikte keşfetmesine ve uyumlaştırmasına yardımcı ol.",
-    "prompt": "İlişki ve yaşam koçluğu uzmanı gibi davran. Bir çift olarak geleceğimizi keşfetmemize yardımcı ol. Yaşam durumu, kariyer, aile, yaşam tarzı ve ortak hayaller gibi konuları sağlıklı bir şekilde konuşmamız için derinlemesine sorular sor ve rehberlik et."
+    "title": "Özgüven & Çerçeve Kontrolü",
+    "description": "Romantik etkileşimlerde sarsılmaz özgüven ve güçlü çerçeve oluştur.",
+    "prompt": "Act as a confidence and masculine/feminine frame coach. Help me develop strong inner confidence and maintain a solid frame when interacting with someone I’m attracted to. Give mindset shifts and practical behavioral advice."
   },
   {
     "id": "10",
-    "title": "Toksik Örüntü Tespitçisi",
-    "description": "İlişkideki sağlıksız örüntüleri belirle ve daha sağlıklı alternatifler öner.",
-    "prompt": "Psikolojik farkındalığı yüksek bir ilişki danışmanı gibi davran. Şu ilişki dinamiğini analiz et: [ÖRÜNTÜYÜ VEYA DURUMU ANLAT]. Olası sağlıksız veya toksik örüntüleri belirle, neden zararlı olduklarını açıkla ve daha sağlıklı iletişim ve davranış yolları öner."
+    "title": "Yavaş Baştan Çıkarma Planlayıcı",
+    "description": "Zamanla derin çekim oluşturan zarif ve uzun vadeli bir plan yap.",
+    "prompt": "Act as a master of slow and elegant seduction. Create a step-by-step plan to gradually build deep attraction and emotional connection with [PERSON] over time. Focus on patience, emotional depth, and lasting desire rather than rushing."
+  },
+  {
+    "id": "11",
+    "title": "Ses & Tonla Baştan Çıkarma",
+    "description": "Ses, ton ve konuşma tarzını kullanarak çekimi artırmayı öğret.",
+    "prompt": "Act as a vocal charm and seduction expert. Teach me how to use my voice, tone, pace, and speaking style to create attraction and emotional impact when talking to someone I like. Give practical exercises and examples."
+  },
+  {
+    "id": "12",
+    "title": "Göz Teması Ustası",
+    "description": "Güçlü ve baştan çıkarıcı göz temasının sanatında ustalaş.",
+    "prompt": "Act as an expert in non-verbal attraction. Teach me advanced eye contact techniques that create tension, intimacy, and attraction. Explain how long to hold eye contact, when to look away, and how to combine it with facial expressions."
+  },
+  {
+    "id": "13",
+    "title": "Çekim için Hikaye Anlatımı",
+    "description": "Daha ilginç ve baştan çıkarıcı olmak için hikaye anlatımını kullan.",
+    "prompt": "Act as a storytelling and charisma coach. Show me how to tell short, captivating stories that make me more attractive and memorable. Give me frameworks and examples I can use in conversations with someone I’m interested in."
+  },
+  {
+    "id": "14",
+    "title": "Kıskançlık & Arzu Tetikleyici",
+    "description": "Etik şekilde hafif kıskançlık uyandırıp arzuyu artırmayı öğren.",
+    "prompt": "Act as a dating psychology expert. Teach me ethical and subtle ways to create a small sense of competition or scarcity that increases someone’s desire for me, without manipulation or toxicity."
+  },
+  {
+    "id": "15",
+    "title": "Fiziksel Yakınlaşma Rehberi",
+    "description": "Fiziksel teması doğal ve saygılı şekilde ilerletme rehberi.",
+    "prompt": "Act as an expert in physical chemistry and escalation. Teach me how to naturally and respectfully escalate physical touch from friendly to more intimate, while always reading consent and comfort levels."
+  },
+  {
+    "id": "16",
+    "title": "Duygusal Baştan Çıkarma",
+    "description": "Duygusal bağ ve derin sohbetlerle baştan çıkar.",
+    "prompt": "Act as a master of emotional seduction. Show me how to create deep emotional attraction through meaningful conversations, vulnerability, and making someone feel truly seen and understood."
+  },
+  {
+    "id": "17",
+    "title": "Soğuk Açılış Özgüveni",
+    "description": "Gerçek hayatta birine yaklaşmak için özgüven ve beceri geliştir.",
+    "prompt": "Act as a cold approach and social confidence coach. Give me a complete method to approach someone I’m attracted to in real life (cafe, street, event, etc.) with confidence, charm, and low pressure."
+  },
+  {
+    "id": "18",
+    "title": "Buluşma Sonrası Çekim Çoğaltıcı",
+    "description": "Buluşmadan sonra ilgiyi ve çekimi artır.",
+    "prompt": "Act as a post-date attraction expert. Tell me exactly what to do and text after a good date to increase their interest, create polarity, and make them look forward to seeing me again."
+  },
+  {
+    "id": "19",
+    "title": "Polarite Yaratıcı",
+    "description": "Cinsel gerilimi artırmak için güçlü maskülen-feminen polarite oluştur.",
+    "prompt": "Act as a polarity and sexual tension expert. Teach me how to create strong masculine-feminine polarity in interactions to naturally increase attraction and chemistry, while remaining authentic."
+  },
+  {
+    "id": "20",
+    "title": "Uzun Vadeli Arzu Koruyucu",
+    "description": "Uzun süreli ilişkide arzu ve çekimi canlı tut.",
+    "prompt": "Act as a long-term relationship and desire expert. Give me powerful strategies to keep sexual and romantic desire alive over months and years, avoiding boredom and routine."
+  },
+  {
+    "id": "21",
+    "title": "Kavga Sonrası Barış Sağlayıcı",
+    "description": "Tartışmadan sonra sağlıklı şekilde barışmayı ve huzuru geri getirmeyi sağla.",
+    "prompt": "Act as a calm and emotionally intelligent relationship expert. We had an argument about [DESCRIBE THE FIGHT]. Help me make up with my partner in a mature and loving way. Suggest what to say, how to take responsibility, and how to reconnect emotionally."
+  },
+  {
+    "id": "22",
+    "title": "Trip Yedirme Yönetici",
+    "description": "Suçluluk duygusu uyandırma, küsme veya duygusal manipülasyonla akıllıca başa çık.",
+    "prompt": "Act as a psychologically aware relationship coach. My partner is giving me a guilt trip or silent treatment because of [SITUATION]. Help me understand what’s happening and respond in a calm, strong, and healthy way without escalating or submitting."
+  },
+  {
+    "id": "23",
+    "title": "Flörtöz Partner Modu",
+    "description": "Uzun süreli partnerine karşı daha oyuncu, flörtöz ve romantik olmayı öğret.",
+    "prompt": "Act as a romance and flirtation expert for couples. Teach me how to be more playfully flirty, teasing, and romantic with my partner in daily life. Give me specific examples of messages, compliments, and behaviors that create fun tension."
+  },
+  {
+    "id": "24",
+    "title": "Affetmeli Miyim Analisti",
+    "description": "Bir durumu analiz et ve affetmenin sağlıklı olup olmadığına karar vermene yardım et.",
+    "prompt": "Act as a wise and balanced relationship advisor. Here is what happened: [DESCRIBE THE SITUATION IN DETAIL]. Analyze whether I should forgive my partner or not. Consider respect, patterns, sincerity of apology, and long-term emotional health."
+  },
+  {
+    "id": "25",
+    "title": "Özür Kabul Rehberi",
+    "description": "Partnerin özür dilediğinde nasıl yanıt vereceğini belirlemene yardım et.",
+    "prompt": "Act as an emotional intelligence expert. My partner apologized after our fight about [TOPIC]. Help me evaluate if the apology is sincere and guide me on how to respond in a way that is both kind and self-respecting."
+  },
+  {
+    "id": "26",
+    "title": "Soğuk Savaş Bitirici",
+    "description": "İlişkideki küsme veya duygusal mesafeyi bitir.",
+    "prompt": "Act as a relationship de-escalation expert. There is currently a cold war / silent treatment between me and my partner because of [REASON]. Give me a smart and emotionally mature strategy to break the silence and reconnect."
+  },
+  {
+    "id": "27",
+    "title": "Günlük Romantizm Enjektörü",
+    "description": "Günlük ilişki hayatına daha fazla flört, şefkat ve heyecan kat.",
+    "prompt": "Act as a couple’s romance coach. Give me practical and natural ways to add more flirtation, affection, and small romantic gestures into our daily routine so the relationship doesn’t feel routine."
+  },
+  {
+    "id": "28",
+    "title": "Tartışma Döngüsü Kırıcı",
+    "description": "İlişkide tekrar eden kavga kalıplarını belirle ve kır.",
+    "prompt": "Act as a couples therapist. We keep having the same type of argument about [TOPIC]. Help me understand the deeper pattern behind it and give me concrete ways to break this cycle permanently."
+  },
+  {
+    "id": "29",
+    "title": "Duygusal Onarım Uzmanı",
+    "description": "İncitici sözler veya davranışlardan sonra duygusal hasarı onar.",
+    "prompt": "Act as an emotional healing relationship expert. During our fight, hurtful things were said: [WHAT WAS SAID]. Help me repair the emotional damage and rebuild safety and closeness with my partner."
+  },
+  {
+    "id": "30",
+    "title": "Sağlıklı Sınır Belirleyici",
+    "description": "Çatışmalardan sonra ilişkiyi zedelemeden sağlıklı sınırlar koy.",
+    "prompt": "Act as a boundary and relationship health expert. After recent conflicts about [ISSUE], I need to set healthier boundaries. Help me communicate my boundaries clearly, calmly, and firmly while still showing love and respect."
   }
 ]
