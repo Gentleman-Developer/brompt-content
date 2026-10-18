@@ -2,56 +2,70 @@
   {
     "id": 1,
     "title": "Cartoon Girl Photo",
-    "description": "You might need to add image to the AI for using this prompt.",
+    "description": "Photo required.",
     "prompt": "Make a fourth puff girl based on my personality and appearance. And show me the result. As a boy . Depends on our back conversations. ",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_1.jpg"
   },
   {
     "id": 2,
     "title": "Zodiac Nail Photo",
-    "description": "You might need to add image to the AI for using this prompt.",
+    "description": "Photo required.",
     "prompt": "Edit this photo of a hand. Apply realistic yet vibrant and colorful zodiac-themed nail art based on the [YOUR ZODIAC] sign. Design elegant, sharp and clean nails inspired by Cancer symbols and water elements. Use rich, glossy and highly saturated polish colors that match the sign’s emotional and oceanic vibe — deep teal, shimmering silver, soft coral pink, pearlescent white and aqua blue. Add delicate but eye-catching details on each nail such as tiny crab motifs, moon phases, water ripples, pearl accents and subtle glitter. Keep the overall look sophisticated and natural while making the colors vivid, lively and attractive. Do not change the hand, skin, fingers or background. Photorealistic, high-detail manicure, glossy finish, 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/zodiac_nail_image_1.jpg"
   },
   {
     "id": 3,
     "title": "Future Girlfriend Photo",
-    "description": "You might need to add image to the AI for using this prompt.",
+    "description": "Photo required.",
     "prompt": "Create a fictional partner next to me, and make the lady like what you think I might like in a woman, and everything you know about my tastes. ",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_1.jpg"
   },
   {
     "id": 4,
     "title": "Mirror Photo",
-    "description": "You might need to add image to the AI for using this prompt.",
+    "description": "Photo required.",
     "prompt": "Reimagine the uploaded selfie as a playful vintage-cafe mirror portrait photographed with a strong fisheye lens. Preserve the adult subject's recognizable face, hair, skin tone, age, and gender presentation. Keep the subject and phone naturally reflected in one large round mirror while the cafe curves dramatically around the frame: tiled floor, small wooden tables, warm pendant lights, and a turquoise accent wall. Use authentic 1990s film color, mild grain, realistic reflections, and lively but believable wide-angle distortion that does not warp the face. One standalone photograph, no split screen, no collage, no extra people, no readable signage, logos, or watermark. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/mirror_image_1.jpg"
   },
   {
     "id": 5,
     "title": "Cartoon Girl Photo",
-    "description": "You might need to add image to the AI for using this prompt.",
+    "description": "Photo required.",
     "prompt": "Recrea un personaje como si formara parte de Winx, por mi personalidad y mis rasgos cómo sería y cuál sería mi habilidad, hazla en imagen. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_2.jpg"
   },
   {
-  "id": "6",
+  "id": 6,
   "title": "Dream Family Portrait",
-  "description": "You might need to add image to the AI for using this prompt.",
+  "description": "Photo required.",
   "prompt": "Create a heartwarming, highly realistic portrait of the user's dream family, based on everything you know about the user from their previous conversations, memories, personality, interests, values, lifestyle, and aspirations.\nInclude the user, their imagined ideal life partner, and a possible future child or children, along with a pet if it fits their lifestyle. Preserve the user's recognizable appearance if a reference photo is provided. Create a natural, emotionally warm family scene that reflects the user's personality and vision of happiness, using realistic details, cinematic lighting, and a visually appealing composition.\nAdd small, handwritten-style annotations around the image with arrows, doodles, and subtle decorative elements. Highlight each family member's imagined personality traits, hobbies, interests, clothing style, and distinctive characteristics. Include a few short notes about the family's shared lifestyle, dreams, and values.\nLanguage requirement: Detect the language the user most commonly uses when communicating with you, based on the available conversation history. Write ALL text appearing inside the image—including headings, labels, annotations, and handwritten notes—in that language. Do not default to English or use multiple languages unless the user's usual communication naturally includes them. If the preferred language cannot be determined, use the language of the user's latest message.\nMake the image feel personal, authentic, affectionate, and specific to the user rather than generic. Treat imagined family members and their characteristics as creative possibilities, not established facts. Keep annotations short, legible, grammatically correct, and naturally phrased in the detected language. Ensure the text does not obscure faces or important details.\nHigh-resolution, photorealistic, cohesive composition, natural expressions, realistic anatomy, warm atmosphere, detailed environment, elegant handwritten typography, and a polished final image. No watermarks or unnecessary text.",
   "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_family_image.jpg"
   },
   {
-  "id": "7",
+  "id": 7,
+  "title": "Cockroach Girl Character",
+  "description": "Photo required.",
+  "prompt": "Create a highly detailed 3D cartoon-style anthropomorphic female cockroach-human hybrid character.\nShe has a beautiful human face with [yüz tanımı: örneğin “realistic features resembling a young woman with brown eyes, natural makeup, darker lipstick”], shoulder-length dark wavy hair, and two long brown cockroach antennae coming out of her head.\nShe is wearing professional corporate business attire: a black blazer over a white button-up shirt and a tight black mini skirt. Her arms are smooth human arms (no hair or spikes), and her legs are smooth, hairless human legs visible below the skirt.\nThe lower body still shows glossy brown cockroach elements (exoskeleton segments, wings, and extra insect legs) partially visible around and behind the skirt.\nShe is posing in a pink-tiled modern bathroom, holding a pink smartphone to her ear with one hand while the other hand touches her face.\nShe has colorful vibrant nail art on her fingernails.\nA small black “AMOR” tattoo is visible on her upper chest.\nSoft even lighting, highly detailed, glossy textures, cute yet slightly creepy aesthetic.\nAdd the text “[YOUR NAME]” in pink letters on the upper left wall (replaceable watermark).",
+  "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_cockroach_girl_1.jpg"
+  },
+  {
+  "id": 8,
   "title": "Movie Actor Portrait",
-  "description": "You might need to add image to the AI for using this prompt.",
+  "description": "Photo required.",
  "prompt": "Fashion editorial photography, front shot, upper body, based on the uploaded reference photo of the person. Strictly preserve the person’s real facial features, identity, skin tone, and overall appearance. Shot with Hasselblad X2D 100C and XCD 90mm f/2.5 lens. Cinematic sepia color grading with golden hour warmth, dramatic black silhouette against burnt umber to honey amber gradient backdrop, avant-garde composition with tilted head pose, staring into the camera with a profound gaze and elongated body stance. Flowing black turtleneck, professional main fresnel light at 60-degree angle with silk diffusion, rim light with CTO gel at 75-degree angle, haze machine for ethereal atmosphere, feathered shadows, selective dodge and burn, grain texture overlay, subtle color temperature shift from 5500K to 3200K, ultra-sharp details, raw look, inspired by Paolo Roversi lighting technique, hyper-realistic, rich detail.",
   "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/movie_actor_image.jpg"
   },
   {
-   "id": 8,
+  "id": 9,
+  "title": "Couple Photobooth Collage",
+  "description": "Photo required.",
+  "prompt": "Create a high-resolution, photorealistic vertical 1:1 photobooth collage featuring three different close-up couple poses in a stylish, dimly lit studio with a brushed-metal background.\nFemale outfit: Modern fitted cropped camisole with thin straps and a tasteful low neckline, paired with fashionable casual bottoms, delicate silver rings, glossy nude nails, and shiny lip gloss.\nMale outfit: Oversized sleeveless T-shirt in a casual streetwear style, showcasing his strong, muscular arms, paired with relaxed modern trousers and dark sunglasses.\nFrame 1: The woman gently cups the man's cheek while they look at each other closely, creating a confident, intimate atmosphere.\nFrame 2: The woman gives him a soft kiss on the side of his neck while he smiles subtly and places his hand gently on her waist.\nFrame 3: They share a romantic kiss, with the woman's hand resting on his jaw and the man's arm loosely around her waist.\nNatural skin texture, realistic facial details, sharp focus, soft intimate lighting, subtle shadows, modern fashion editorial aesthetic, natural expressions, consistent faces and outfits across all three frames, elegant sensual chemistry, realistic photography, no distortion, no text, no watermark, no logo.",
+  "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_2.jpg"
+  }
+  ,{
+   "id": 10,
     "title": "Cartoon Man Photo",
-    "description": "You might need to add image to the AI for using this prompt.",
+    "description": "Photo required.",
     "prompt": "Turn the person from the photo into a grotesque humorous fashion caricature sketch. Strongly exaggerated anatomy, elongated proportions, expressive crooked hands, dramatic face, awkward elegant posture, satirical fashion energy, messy ink lines, rough watercolor, sketchbook style, vintage magazine illustration on beige aged paper. Add handwritten English notes, arrows, funny observations, doodles, and absurd personality analysis around the character. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_3.jpg"
   }
