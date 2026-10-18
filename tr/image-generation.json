@@ -42,13 +42,12 @@
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_family_image.jpg"
   },
   {
-    "id": 7,
-    "title": "Hamam Böceği Kız Karakteri",
-    "description": "Resim eklenerek kullanılır.",
-    "prompt": "Create a highly detailed 3D cartoon-style anthropomorphic female cockroach-human hybrid character.\nShe has a beautiful human face with [yüz tanımı: örneğin “realistic features resembling a young woman with brown eyes, natural makeup, darker lipstick”], shoulder-length dark wavy hair, and two long brown cockroach antennae coming out of her head.\nShe is wearing professional corporate business attire: a black blazer over a white button-up shirt and a tight black mini skirt. Her arms are smooth human arms (no hair or spikes), and her legs are smooth, hairless human legs visible below the skirt.\nThe lower body still shows glossy brown cockroach elements (exoskeleton segments, wings, and extra insect legs) partially visible around and behind the skirt.\nShe is posing in a pink-tiled modern bathroom, holding a pink smartphone to her ear with one hand while the other hand touches her face.\nShe has colorful vibrant nail art on her fingernails.\nA small black “AMOR” tattoo is visible on her upper chest.\nSoft even lighting, highly detailed, glossy textures, cute yet slightly creepy aesthetic.\nAdd the text “[İSİM]” in pink letters on the upper left wall (replaceable watermark).",
-    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_cockroach_girl_1.jpg"
-  },
-  {
+  "id": 7,
+  "title": "Hamam Böceği Kız Karakteri",
+  "description": "Kendi fotoğrafını yükleyerek hamam böceği kız karakterine dönüş.",
+  "prompt": "Use the uploaded image of the woman as the primary visual reference. Transform her into a highly detailed 3D cartoon-style anthropomorphic female cockroach-human hybrid while preserving her recognizable facial identity, face shape, skin tone, eye color, and overall appearance from the uploaded photo. Do not invent a different woman's face.\n\nGive her two long brown cockroach antennae emerging naturally from her head, integrated with her hairstyle. Keep her hair color, length, and general hairstyle consistent with the uploaded image.\n\nDress her in professional corporate business attire: a black blazer over a white button-up shirt and a black mini skirt. Her arms and visible human legs should have smooth, natural human skin. Blend glossy brown cockroach exoskeleton segments, wings, and additional insect legs into her lower body so that the human-insect hybrid design looks cohesive and believable.\n\nPlace her in a modern bathroom with pink tiles. Pose her holding a pink smartphone to her ear with one hand while the other hand gently touches her face. Add colorful nail art to her fingernails and a small black 'AMOR' tattoo on her upper chest.\n\nUse polished 3D cartoon rendering, detailed materials, glossy insect textures, soft even lighting, vibrant colors, and a cute yet slightly creepy aesthetic. Compose the image as a complete character scene, with the woman clearly visible and the background supporting the concept.\n\nAdd the text '[İSİM]' in pink letters on the upper-left wall as a replaceable watermark. Do not let the text cover the woman's face or body. The final image should clearly resemble the woman in the uploaded photo transformed into this character, rather than a generic character."
+  }
+  ,{
     "id": 8,
     "title": "Kız Arkadaş Fotokabin Kolajı",
     "description": "Resim eklenerek kullanılır.",
