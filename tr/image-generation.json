@@ -2,71 +2,92 @@
   {
     "id": 1,
     "title": "Cizgi Film Kız Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Make a fourth puff girl based on my personality and appearance. And show me the result. As a boy . Depends on our back conversations. ",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_1.jpg"
   },
   {
     "id": 2,
     "title": "Burç Temalı Tırnak Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Edit this photo of a hand. Apply realistic yet vibrant and colorful zodiac-themed nail art based on the [BURCUN NEDİR] sign. Design elegant, sharp and clean nails inspired by Cancer symbols and water elements. Use rich, glossy and highly saturated polish colors that match the sign’s emotional and oceanic vibe — deep teal, shimmering silver, soft coral pink, pearlescent white and aqua blue. Add delicate but eye-catching details on each nail such as tiny crab motifs, moon phases, water ripples, pearl accents and subtle glitter. Keep the overall look sophisticated and natural while making the colors vivid, lively and attractive. Do not change the hand, skin, fingers or background. Photorealistic, high-detail manicure, glossy finish, 1:1 image ratio. ",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/zodiac_nail_image_1.jpg"
   },
   {
     "id": 3,
     "title": "Gelecekteki Kadın Partner Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Create a fictional partner next to me, and make the lady like what you think I might like in a woman, and everything you know about my tastes. ",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_1.jpg"
   },
   {
     "id": 4,
     "title": "Ayna Çekim Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Reimagine the uploaded selfie as a playful vintage-cafe mirror portrait photographed with a strong fisheye lens. Preserve the adult subject's recognizable face, hair, skin tone, age, and gender presentation. Keep the subject and phone naturally reflected in one large round mirror while the cafe curves dramatically around the frame: tiled floor, small wooden tables, warm pendant lights, and a turquoise accent wall. Use authentic 1990s film color, mild grain, realistic reflections, and lively but believable wide-angle distortion that does not warp the face. One standalone photograph, no split screen, no collage, no extra people, no readable signage, logos, or watermark. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/mirror_image_1.jpg"
   },
   {
     "id": 5,
     "title": "Cizgi Film Kız Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Recrea un personaje como si formara parte de Winx, por mi personalidad y mis rasgos cómo sería y cuál sería mi habilidad, hazla en imagen. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_2.jpg"
   },
   {
     "id": 6,
     "title": "Hayalimdeki Aile Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Create a heartwarming, highly realistic portrait of the user's dream family, based on everything you know about the user from their previous conversations, memories, personality, interests, values, lifestyle, and aspirations.\nInclude the user, their imagined ideal life partner, and a possible future child or children, along with a pet if it fits their lifestyle. Preserve the user's recognizable appearance if a reference photo is provided. Create a natural, emotionally warm family scene that reflects the user's personality and vision of happiness, using realistic details, cinematic lighting, and a visually appealing composition.\nAdd small, handwritten-style annotations around the image with arrows, doodles, and subtle decorative elements. Highlight each family member's imagined personality traits, hobbies, interests, clothing style, and distinctive characteristics. Include a few short notes about the family's shared lifestyle, dreams, and values.\nLanguage requirement: Detect the language the user most commonly uses when communicating with you, based on the available conversation history. Write ALL text appearing inside the image—including headings, labels, annotations, and handwritten notes—in that language. Do not default to English or use multiple languages unless the user's usual communication naturally includes them. If the preferred language cannot be determined, use the language of the user's latest message.\nMake the image feel personal, authentic, affectionate, and specific to the user rather than generic. Treat imagined family members and their characteristics as creative possibilities, not established facts. Keep annotations short, legible, grammatically correct, and naturally phrased in the detected language. Ensure the text does not obscure faces or important details.\nHigh-resolution, photorealistic, cohesive composition, natural expressions, realistic anatomy, warm atmosphere, detailed environment, elegant handwritten typography, and a polished final image. No watermarks or unnecessary text.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_family_image.jpg"
   },
   {
   "id": 7,
   "title": "Hamam Böceği Kız Karakteri",
-  "description": "Kendi fotoğrafını yükleyerek hamam böceği kız karakterine dönüş.",
+    "description": "Resim gereklidir.",
   "prompt": "Use the uploaded image of the woman as the primary visual reference. Transform her into a highly detailed 3D cartoon-style anthropomorphic female cockroach-human hybrid while preserving her recognizable facial identity, face shape, skin tone, eye color, and overall appearance from the uploaded photo. Do not invent a different woman's face.\n\nGive her two long brown cockroach antennae emerging naturally from her head, integrated with her hairstyle. Keep her hair color, length, and general hairstyle consistent with the uploaded image.\n\nDress her in professional corporate business attire: a black blazer over a white button-up shirt and a black mini skirt. Her arms and visible human legs should have smooth, natural human skin. Blend glossy brown cockroach exoskeleton segments, wings, and additional insect legs into her lower body so that the human-insect hybrid design looks cohesive and believable.\n\nPlace her in a modern bathroom with pink tiles. Pose her holding a pink smartphone to her ear with one hand while the other hand gently touches her face. Add colorful nail art to her fingernails and a small black 'AMOR' tattoo on her upper chest.\n\nUse polished 3D cartoon rendering, detailed materials, glossy insect textures, soft even lighting, vibrant colors, and a cute yet slightly creepy aesthetic. Compose the image as a complete character scene, with the woman clearly visible and the background supporting the concept.\n\nAdd the text '[İSİM]' in pink letters on the upper-left wall as a replaceable watermark. Do not let the text cover the woman's face or body. The final image should clearly resemble the woman in the uploaded photo transformed into this character, rather than a generic character.",
   "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_cockroach_girl_1.jpg"
   }
   ,{
     "id": 8,
     "title": "Kız Arkadaş Fotokabin Kolajı",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Create a high-resolution, photorealistic vertical 1:1 photobooth collage featuring three different close-up couple poses in a stylish, dimly lit studio with a brushed-metal background.\nFemale outfit: Modern fitted cropped camisole with thin straps and a tasteful low neckline, paired with fashionable casual bottoms, delicate silver rings, glossy nude nails, and shiny lip gloss.\nMale outfit: Oversized sleeveless T-shirt in a casual streetwear style, showcasing his strong, muscular arms, paired with relaxed modern trousers and dark sunglasses.\nFrame 1: The woman gently cups the man's cheek while they look at each other closely, creating a confident, intimate atmosphere.\nFrame 2: The woman gives him a soft kiss on the side of his neck while he smiles subtly and places his hand gently on her waist.\nFrame 3: They share a romantic kiss, with the woman's hand resting on his jaw and the man's arm loosely around her waist.\nNatural skin texture, realistic facial details, sharp focus, soft intimate lighting, subtle shadows, modern fashion editorial aesthetic, natural expressions, consistent faces and outfits across all three frames, elegant sensual chemistry, realistic photography, no distortion, no text, no watermark, no logo.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_2.jpg"
   },
   {
     "id": 9,
     "title": "Film Oyuncusu Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Fashion editorial photography, front shot, upper body, based on the uploaded reference photo of the person. Strictly preserve the person’s real facial features, identity, skin tone, and overall appearance. Shot with Hasselblad X2D 100C and XCD 90mm f/2.5 lens. Cinematic sepia color grading with golden hour warmth, dramatic black silhouette against burnt umber to honey amber gradient backdrop, avant-garde composition with tilted head pose, staring into the camera with a profound gaze and elongated body stance. Flowing black turtleneck, professional main fresnel light at 60-degree angle with silk diffusion, rim light with CTO gel at 75-degree angle, haze machine for ethereal atmosphere, feathered shadows, selective dodge and burn, grain texture overlay, subtle color temperature shift from 5500K to 3200K, ultra-sharp details, raw look, inspired by Paolo Roversi lighting technique, hyper-realistic, rich detail.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/movie_actor_image.jpg"
   },
   {
    "id": 10,
     "title": "Cizgi Film Erkek Portresi",
-    "description": "Resim eklenerek kullanılır.",
+    "description": "Resim gereklidir.",
     "prompt": "Turn the person from the photo into a grotesque humorous fashion caricature sketch. Strongly exaggerated anatomy, elongated proportions, expressive crooked hands, dramatic face, awkward elegant posture, satirical fashion energy, messy ink lines, rough watercolor, sketchbook style, vintage magazine illustration on beige aged paper. Add handwritten English notes, arrows, funny observations, doodles, and absurd personality analysis around the character. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_3.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Seyahat Hatıra Kutusu",
+    "description": "Resim gereklidir.",
+    "prompt": "Create a premium Instagram travel-poster illustration for [ÜLKE/ŞEHİR] in a cohesive collectible \"souvenir box\" series. Show an open vintage cardboard box containing exactly 10 culturally authentic, visually distinctive souvenirs, automatically selected for [ÜLKE/ŞEHİR]: 1 hero + 2–3 supporting objects + secondary keepsakes, with varied materials, scale and silhouette. Add exactly 4 paper elements: folded illustrated map with 4 diverse destinations, perforated travel ticket, die-cut destination sticker, and one culturally appropriate paper-craft element. Use a warm textured-paper background and huge distressed condensed [ÜLKE] typography behind the box. Build an original [ÜLKE/ŞEHİR]-specific palette from its landscape, architecture, crafts and culture: dominant + secondary + warm neutral + accent + dark text. Style: premium tactile 3D collectible illustration + vintage international travel poster + editorial magazine cover + nostalgic packaging design; soft studio lighting, contact shadows, ambient occlusion, fine material grain, handmade imperfections, sophisticated—not glossy CGI. Add restrained travel ephemera: 4–7",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/travel_poster_image.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Alevli Kahve Kutusu",
+    "description": "Resim gereklidir.",
+    "prompt": "A hyper-realistic cinematic 3D render of a Coffee drink name of brand [MARKA ADI] can, bursting open with a flaming skull emerging from the middle. The can features sharp metallic textures with condensation droplets and reflections, surrounded by intense flames and fiery energy. The background shows a dramatic waterfall and glowing sunset sky, with cinematic depth of field, realistic lighting, and smoke particles. Ultra-detailed, 8K render, premium product shot, dark and intense atmosphere.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/flaming_coffee_image.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Yüz & Kahve Portresi",
+    "description": "Resim gereklidir.",
+    "prompt": "A moody, cinematic portrait where a person's face emerges from the rising steam of a dark rustic coffee cup placed on a weathered wooden table. The face appears in black and white tones, seamlessly blending with the swirling white steam, with the person's hand gently resting near their lips in a thoughtful, contemplative pose. The steam curls upward dramatically, forming the shape of the person's head and hair. On the right side of the steam, elegant cursive handwritten text reads [KAHVE METNİ] in white. The background is dark and blurred with soft window light, creating a dramatic chiaroscuro lighting effect. The coffee cup is dark ceramic, handmade style, sitting on a rustic wooden surface. Overall atmosphere is romantic, mysterious, and artistic — a surreal double-exposure style composition merging portrait photography with still life.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/smoky_coffe_image.jpg"
   }
 ]
