@@ -68,5 +68,26 @@
     "description": "Photo required.",
     "prompt": "Turn the person from the photo into a grotesque humorous fashion caricature sketch. Strongly exaggerated anatomy, elongated proportions, expressive crooked hands, dramatic face, awkward elegant posture, satirical fashion energy, messy ink lines, rough watercolor, sketchbook style, vintage magazine illustration on beige aged paper. Add handwritten English notes, arrows, funny observations, doodles, and absurd personality analysis around the character. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_3.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Travel Souvenir Box Poster",
+    "description": "Create a premium Instagram travel-poster illustration in a collectible souvenir box style.",
+    "prompt": "Create a premium Instagram travel-poster illustration for [COUNTRY] in a cohesive collectible \"souvenir box\" series. Show an open vintage cardboard box containing exactly 10 culturally authentic, visually distinctive souvenirs, automatically selected for [COUNTRY]: 1 hero + 2–3 supporting objects + secondary keepsakes, with varied materials, scale and silhouette. Add exactly 4 paper elements: folded illustrated map with 4 diverse destinations, perforated travel ticket, die-cut destination sticker, and one culturally appropriate paper-craft element. Use a warm textured-paper background and huge distressed condensed [COUNTRY] typography behind the box. Build an original [COUNTRY]-specific palette from its landscape, architecture, crafts and culture: dominant + secondary + warm neutral + accent + dark text. Style: premium tactile 3D collectible illustration + vintage international travel poster + editorial magazine cover + nostalgic packaging design; soft studio lighting, contact shadows, ambient occlusion, fine material grain, handmade imperfections, sophisticated—not glossy CGI. Add restrained travel ephemera: 4–7",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/travel_poster_image.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Flaming Skull Coffee Can",
+    "description": "Create a hyper-realistic cinematic 3D render of a coffee can with a flaming skull.",
+    "prompt": "A hyper-realistic cinematic 3D render of a Coffee drink name of brand [BRAND NAME] can, bursting open with a flaming skull emerging from the middle. The can features sharp metallic textures with condensation droplets and reflections, surrounded by intense flames and fiery energy. The background shows a dramatic waterfall and glowing sunset sky, with cinematic depth of field, realistic lighting, and smoke particles. Ultra-detailed, 8K render, premium product shot, dark and intense atmosphere.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/flaming_coffee_image.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Steam Face Coffee Portrait",
+    "description": "Create a moody cinematic portrait where a face emerges from coffee steam.",
+    "prompt": "A moody, cinematic portrait where a person's face emerges from the rising steam of a dark rustic coffee cup placed on a weathered wooden table. The face appears in black and white tones, seamlessly blending with the swirling white steam, with the person's hand gently resting near their lips in a thoughtful, contemplative pose. The steam curls upward dramatically, forming the shape of the person's head and hair. On the right side of the steam, elegant cursive handwritten text reads [COFFEE TEXT] in white. The background is dark and blurred with soft window light, creating a dramatic chiaroscuro lighting effect. The coffee cup is dark ceramic, handmade style, sitting on a rustic wooden surface. Overall atmosphere is romantic, mysterious, and artistic — a surreal double-exposure style composition merging portrait photography with still life.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/smoky_coffe_image.jpg"
   }
 ]
