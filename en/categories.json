@@ -28,25 +28,5 @@
     "id": "marketing",
     "title": "Marketing",
     "jsonFileName": "marketing.json"
-  },
-  {
-    "id": "education",
-    "title": "Education & Learning",
-    "jsonFileName": "education.json"
-  },
-  {
-    "id": "productivity",
-    "title": "Productivity",
-    "jsonFileName": "productivity.json"
-  },
-  {
-    "id": "social-media",
-    "title": "Social Media",
-    "jsonFileName": "social-media.json"
-  },
-  {
-    "id": "lifestyle",
-    "title": "Lifestyle",
-    "jsonFileName": "lifestyle.json"
   }
 ]
