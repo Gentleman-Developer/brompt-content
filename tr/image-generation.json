@@ -1,92 +1,134 @@
 [
   {
     "id": 1,
-    "title": "Cizgi Film Kız Portresi",
-    "description": "Resim gereklidir.",
-    "prompt": "Make a fourth puff girl based on my personality and appearance. And show me the result. As a boy . Depends on our back conversations. ",
-    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_1.jpg"
+    "title": "Klasik Mermer Heykel",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "A photorealistic classical marble statue of the person from the uploaded photo, transformed into an ancient Greek/Roman style sculpture. Keep the exact face, facial features, hair style, hair color, body type, and overall likeness of the person in the reference photo — do not change their hair, beard, or appearance to match any other statue. The figure is carved from white cracked marble with realistic stone texture, cracks, and weathering. The person is wearing modern black aviator sunglasses and holding a tall glass of iced tea with ice cubes and a white straw in one hand. Draped in a classical toga/cloak with realistic marble folds and fabric details. Muscular or natural body proportions matching the reference. Background: ancient Greek temple with tall columns overlooking a sunny coastal landscape with sea, hills, and blue sky. Soft natural lighting, high detail, cinematic composition, ultra-realistic marble texture.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/greek_statue_image.jpg"
   },
   {
     "id": 2,
-    "title": "Burç Temalı Tırnak Portresi",
-    "description": "Resim gereklidir.",
-    "prompt": "Edit this photo of a hand. Apply realistic yet vibrant and colorful zodiac-themed nail art based on the [BURCUN NEDİR] sign. Design elegant, sharp and clean nails inspired by Cancer symbols and water elements. Use rich, glossy and highly saturated polish colors that match the sign’s emotional and oceanic vibe — deep teal, shimmering silver, soft coral pink, pearlescent white and aqua blue. Add delicate but eye-catching details on each nail such as tiny crab motifs, moon phases, water ripples, pearl accents and subtle glitter. Keep the overall look sophisticated and natural while making the colors vivid, lively and attractive. Do not change the hand, skin, fingers or background. Photorealistic, high-detail manicure, glossy finish, 1:1 image ratio. ",
-    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/zodiac_nail_image_1.jpg"
+    "title": "Fincandaki Minyatür Bebek",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Use the uploaded photo as the identity reference and reimagine the subject as a recognizable cute handcrafted miniature doll. Compact round face, soft cheeks, petite short-limbed body, sculpted features, glass eyes, and a smooth matte handmade surface with subtle tactile softness. Adorable before beautiful. Not photorealistic, anime, fashion doll, plastic, fuzzy or visibly woven.\nA small handcrafted character sits inside an oversized [MARKA ADI] Coffee takeaway cup with its iconic green logo, resting one cheek on their hand while holding a miniature steaming latte with delicate heart-shaped latte art. Softly pouty, dreamy expression, wearing a backward forest-green baseball cap. A much smaller baby animal sits beside the cup on all fours, gazing up adorably, wearing a matching backward green cap. [MARKA ADI] café interior, blurred pastries, wooden tabletop, warm golden bokeh. Whimsical oversized-scale illusion, matte handcrafted miniature realism, cinematic macro, shallow DOF, soft detailed textures, vertical 4:5.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cute_coffee_drink_image.jpg"
   },
   {
     "id": 3,
-    "title": "Gelecekteki Kadın Partner Portresi",
-    "description": "Resim gereklidir.",
-    "prompt": "Create a fictional partner next to me, and make the lady like what you think I might like in a woman, and everything you know about my tastes. ",
-    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_1.jpg"
+    "title": "Dev Kahve Fincanı Bina",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "A photorealistic image of a giant multi-story coffee cup shaped building standing on a wet city street at dusk. The building is designed exactly like a to-go coffee cup with a white lid on top and a wavy textured beige exterior. On the front of the cup, place the provided logo image and the brand name “[MARKA ADI]” in bold white letters next to it. The front of the building is fully glass, revealing three floors of a busy café interior with warm golden lighting, hanging pendant lamps, people sitting at tables working on laptops and talking, a service counter with baristas in aprons, and a glass display case filled with colorful macarons, croissants and pastries on the ground floor. Outside, pedestrians walk on the rainy sidewalk, cars with light trails drive by, and tall modern glass skyscrapers rise in the background under a blue-hour sky. Cinematic lighting, highly detailed, realistic reflections on the wet pavement, architectural photography style.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/big_coffeeshop_image.jpg"
   },
   {
     "id": 4,
-    "title": "Ayna Çekim Portresi",
-    "description": "Resim gereklidir.",
+    "title": "3D Cam Logo Rozeti",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Turn the provided logo into a premium 3D circular glass badge. Glossy deep black surface, emerald green neon glow, embossed metallic logo in the center, thick reflective rim, pure black background, ultra realistic luxury 3D render.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/brand_logo_image_1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Favori Müzik Görseli",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a cinematic and photorealistic scene in the middle of a city featuring a GIANT smartphone leaning against the sidewalk.\nI want to appear sitting naturally on top of the phone. Completely respect my face, body, and features so that it is still clearly me.\nOn the phone’s screen, create an elegant music player interface. Do not use my photo as the album cover. Instead, show a realistic album artwork for the song. Personalize it with:\n🎵 Song: [ŞARKI ADI]\n👤 Artist: [SANATÇI ADI]\nAdd playback controls, a progress bar, and other realistic music app details.\nMake the phone look truly gigantic: glass screen, reflections, metallic edges, realistic shadows, and perspective that integrates perfectly with the ground.\nAround it there should be an urban street with people walking and everyday city elements, as if finding a giant phone in the middle of the sidewalk were completely normal.\nCinematic photography, warm natural light, elevated viewpoint, depth of field, high level of detail, and professional photographic finish.\nVertical format 9:16.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/favorite_music.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Protein Kostümü Selfie",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Use the uploaded photo as the strict face and identity reference.\nPreserve the person’s exact facial features, face shape, skin tone, hair color, hair style, body type, tattoos (if any), and overall likeness from the uploaded photo.\nTransform the person into a realistic mirror selfie taken inside a modern stainless-steel elevator, exactly matching the composition and pose of the reference image.\nThe person is wearing a full-body costume that looks like a giant protein powder tub:\nThe main body is a large, padded, black cylindrical “protein container” dress that covers the torso and hips, shaped exactly like a whey protein tub.\nOn the front of the tub clearly print in bold white letters: BROMPT\nBelow it write in large white text: WHEY PROTEIN\nAdd the nutrition info in the same style: 24g PROTEIN · 5.5g BCAAs · 4g GLUTAMINE\nAt the bottom write CHOCOLATE with a small chocolate splash graphic.\nOn top of the head place a black protein scoop as a hat (with a red lid), also branded BROMPT.\nThe person holds a smartphone in one hand taking the mirror selfie.\nOne arm is raised and resting against the elevator wall/door.\nWear black socks with small BROMPT logos.\nA black gym bag and a black shaker bottle with BROMPT logo hang on the elevator door handle.\nKeep the exact same elevator environment (brushed metal walls, glass door, overhead lights, dark speckled floor).\nSame confident, playful pose and camera angle as the original photo.\nUltra-photorealistic, natural skin texture, realistic fabric and plastic materials, sharp details, authentic smartphone mirror selfie quality, no AI artifacts.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/protein_man_image.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Karikatür Karakter Fotoğrafı",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a high-quality stylized cartoon character based on the uploaded photo and the person's personality. Preserve the recognizable facial features, hair style, and overall likeness while transforming them into an appealing cartoon style. Make the character expressive, charming, and full of personality. Clean lines, vibrant colors, professional illustration quality, 1:1 image ratio.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Burç Tırnak Fotoğrafı",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Edit this photo of a hand. Apply realistic yet vibrant and colorful zodiac-themed nail art based on the [BURCUN] sign. Design elegant, sharp and clean nails inspired by the symbols, elements, and aesthetic of the [BURCUN] sign. Use rich, glossy and highly saturated polish colors that match the sign’s vibe. Add delicate but eye-catching details on each nail such as symbolic motifs, celestial elements, and subtle glitter. Keep the overall look sophisticated and natural while making the colors vivid, lively and attractive. Do not change the hand, skin, fingers or background. Photorealistic, high-detail manicure, glossy finish, 1:1 image ratio.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/zodiac_nail_image_1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Gelecekteki Sevgili Fotoğrafı",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a realistic and natural-looking fictional partner standing next to the person in the uploaded photo. Base the partner’s appearance, style, and energy on everything you know about the user’s personality, tastes, and preferences. Keep the user’s face, body, and features completely unchanged. Make the scene look like a real candid photo with natural lighting, chemistry, and realistic interaction. Photorealistic, high detail, natural expressions.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_1.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Ayna Fotoğrafı",
+    "description": "Fotoğraf gerekli.",
     "prompt": "Reimagine the uploaded selfie as a playful vintage-cafe mirror portrait photographed with a strong fisheye lens. Preserve the adult subject's recognizable face, hair, skin tone, age, and gender presentation. Keep the subject and phone naturally reflected in one large round mirror while the cafe curves dramatically around the frame: tiled floor, small wooden tables, warm pendant lights, and a turquoise accent wall. Use authentic 1990s film color, mild grain, realistic reflections, and lively but believable wide-angle distortion that does not warp the face. One standalone photograph, no split screen, no collage, no extra people, no readable signage, logos, or watermark. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/mirror_image_1.jpg"
   },
   {
-    "id": 5,
-    "title": "Cizgi Film Kız Portresi",
-    "description": "Resim gereklidir.",
-    "prompt": "Recrea un personaje como si formara parte de Winx, por mi personalidad y mis rasgos cómo sería y cuál sería mi habilidad, hazla en imagen. 1:1 image ratio.",
+    "id": 11,
+    "title": "Sihirli Peri Karakteri",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a magical fairy character based on the uploaded photo and the person’s personality. Preserve the recognizable facial features and overall likeness while transforming them into an elegant fairy form. Design original wings, outfit, colors, and a unique magical ability that fits their personality. High-quality 2D animation style, vibrant colors, detailed wings and costume, soft magical effects, 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_2.jpg"
   },
   {
-    "id": 6,
+    "id": 12,
     "title": "Hayalimdeki Aile Portresi",
-    "description": "Resim gereklidir.",
+    "description": "Fotoğraf gerekli.",
     "prompt": "Create a heartwarming, highly realistic portrait of the user's dream family, based on everything you know about the user from their previous conversations, memories, personality, interests, values, lifestyle, and aspirations.\nInclude the user, their imagined ideal life partner, and a possible future child or children, along with a pet if it fits their lifestyle. Preserve the user's recognizable appearance if a reference photo is provided. Create a natural, emotionally warm family scene that reflects the user's personality and vision of happiness, using realistic details, cinematic lighting, and a visually appealing composition.\nAdd small, handwritten-style annotations around the image with arrows, doodles, and subtle decorative elements. Highlight each family member's imagined personality traits, hobbies, interests, clothing style, and distinctive characteristics. Include a few short notes about the family's shared lifestyle, dreams, and values.\nLanguage requirement: Detect the language the user most commonly uses when communicating with you, based on the available conversation history. Write ALL text appearing inside the image—including headings, labels, annotations, and handwritten notes—in that language. Do not default to English or use multiple languages unless the user's usual communication naturally includes them. If the preferred language cannot be determined, use the language of the user's latest message.\nMake the image feel personal, authentic, affectionate, and specific to the user rather than generic. Treat imagined family members and their characteristics as creative possibilities, not established facts. Keep annotations short, legible, grammatically correct, and naturally phrased in the detected language. Ensure the text does not obscure faces or important details.\nHigh-resolution, photorealistic, cohesive composition, natural expressions, realistic anatomy, warm atmosphere, detailed environment, elegant handwritten typography, and a polished final image. No watermarks or unnecessary text.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_family_image.jpg"
   },
   {
-  "id": 7,
-  "title": "Hamam Böceği Kız Karakteri",
-    "description": "Resim gereklidir.",
-  "prompt": "Use the uploaded image of the woman as the primary visual reference. Transform her into a highly detailed 3D cartoon-style anthropomorphic female cockroach-human hybrid while preserving her recognizable facial identity, face shape, skin tone, eye color, and overall appearance from the uploaded photo. Do not invent a different woman's face.\n\nGive her two long brown cockroach antennae emerging naturally from her head, integrated with her hairstyle. Keep her hair color, length, and general hairstyle consistent with the uploaded image.\n\nDress her in professional corporate business attire: a black blazer over a white button-up shirt and a black mini skirt. Her arms and visible human legs should have smooth, natural human skin. Blend glossy brown cockroach exoskeleton segments, wings, and additional insect legs into her lower body so that the human-insect hybrid design looks cohesive and believable.\n\nPlace her in a modern bathroom with pink tiles. Pose her holding a pink smartphone to her ear with one hand while the other hand gently touches her face. Add colorful nail art to her fingernails and a small black 'AMOR' tattoo on her upper chest.\n\nUse polished 3D cartoon rendering, detailed materials, glossy insect textures, soft even lighting, vibrant colors, and a cute yet slightly creepy aesthetic. Compose the image as a complete character scene, with the woman clearly visible and the background supporting the concept.\n\nAdd the text '[İSİM]' in pink letters on the upper-left wall as a replaceable watermark. Do not let the text cover the woman's face or body. The final image should clearly resemble the woman in the uploaded photo transformed into this character, rather than a generic character.",
-  "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_cockroach_girl_1.jpg"
-  }
-  ,{
-    "id": 8,
-    "title": "Kız Arkadaş Fotokabin Kolajı",
-    "description": "Resim gereklidir.",
-    "prompt": "Create a high-resolution, photorealistic vertical 1:1 photobooth collage featuring three different close-up couple poses in a stylish, dimly lit studio with a brushed-metal background.\nFemale outfit: Modern fitted cropped camisole with thin straps and a tasteful low neckline, paired with fashionable casual bottoms, delicate silver rings, glossy nude nails, and shiny lip gloss.\nMale outfit: Oversized sleeveless T-shirt in a casual streetwear style, showcasing his strong, muscular arms, paired with relaxed modern trousers and dark sunglasses.\nFrame 1: The woman gently cups the man's cheek while they look at each other closely, creating a confident, intimate atmosphere.\nFrame 2: The woman gives him a soft kiss on the side of his neck while he smiles subtly and places his hand gently on her waist.\nFrame 3: They share a romantic kiss, with the woman's hand resting on his jaw and the man's arm loosely around her waist.\nNatural skin texture, realistic facial details, sharp focus, soft intimate lighting, subtle shadows, modern fashion editorial aesthetic, natural expressions, consistent faces and outfits across all three frames, elegant sensual chemistry, realistic photography, no distortion, no text, no watermark, no logo.",
-    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_2.jpg"
+    "id": 13,
+    "title": "Hamam Böceği Kız Karakteri",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Use the uploaded photo of the woman as the primary visual reference. Transform her into a highly detailed 3D cartoon-style anthropomorphic female cockroach-human hybrid while preserving her recognizable facial identity, face shape, skin tone, eye color, and overall appearance. Do not replace her face with a generic or different woman's face.\n\nKeep her hair color, length, and general hairstyle consistent with the uploaded photo. Add two long brown cockroach antennae emerging naturally from her head and blending into her hairstyle.\n\nDress her in professional corporate business attire: a black blazer over a white button-up shirt and a fitted black mini skirt. Her arms and visible human legs should have smooth, natural human skin. Integrate glossy brown cockroach features into her lower body, including segmented exoskeleton, wings, and additional insect legs partially visible around and behind the skirt. Make the human and insect features blend naturally into one cohesive character design.\n\nPlace her in a modern bathroom with pink tiled walls. Pose her holding a pink smartphone to her ear with one hand while gently touching her face with the other. Add colorful, vibrant nail art to her fingernails and a small black 'AMOR' tattoo on her upper chest.\n\nUse highly detailed 3D cartoon rendering, glossy textures, soft and even lighting, vibrant colors, and a cute yet slightly creepy aesthetic. Show the character clearly within a polished, complete scene.\n\nAdd the text '[İSİM]' in pink letters on the upper-left wall as a replaceable watermark. Keep the text away from her face and body. The final result should depict the woman in the uploaded photo transformed into this character, rather than an unrelated character.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_cockroach_girl_1.jpg"
   },
   {
-    "id": 9,
+    "id": 14,
     "title": "Film Oyuncusu Portresi",
-    "description": "Resim gereklidir.",
+    "description": "Fotoğraf gerekli.",
     "prompt": "Fashion editorial photography, front shot, upper body, based on the uploaded reference photo of the person. Strictly preserve the person’s real facial features, identity, skin tone, and overall appearance. Shot with Hasselblad X2D 100C and XCD 90mm f/2.5 lens. Cinematic sepia color grading with golden hour warmth, dramatic black silhouette against burnt umber to honey amber gradient backdrop, avant-garde composition with tilted head pose, staring into the camera with a profound gaze and elongated body stance. Flowing black turtleneck, professional main fresnel light at 60-degree angle with silk diffusion, rim light with CTO gel at 75-degree angle, haze machine for ethereal atmosphere, feathered shadows, selective dodge and burn, grain texture overlay, subtle color temperature shift from 5500K to 3200K, ultra-sharp details, raw look, inspired by Paolo Roversi lighting technique, hyper-realistic, rich detail.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/movie_actor_image.jpg"
   },
   {
-   "id": 10,
-    "title": "Cizgi Film Erkek Portresi",
-    "description": "Resim gereklidir.",
+    "id": 15,
+    "title": "Çift Fotokabin Kolajı",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a high-resolution, photorealistic vertical 1:1 photobooth collage featuring three different close-up couple poses in a stylish, dimly lit studio with a brushed-metal background.\nFemale outfit: Modern fitted cropped camisole with thin straps and a tasteful low neckline, paired with fashionable casual bottoms, delicate silver rings, glossy nude nails, and shiny lip gloss.\nMale outfit: Oversized sleeveless T-shirt in a casual streetwear style, showcasing his strong, muscular arms, paired with relaxed modern trousers and dark sunglasses.\nFrame 1: The woman gently cups the man's cheek while they look at each other closely, creating a confident, intimate atmosphere.\nFrame 2: The woman gives him a soft kiss on the side of his neck while he smiles subtly and places his hand gently on her waist.\nFrame 3: They share a romantic kiss, with the woman's hand resting on his jaw and the man's arm loosely around her waist.\nNatural skin texture, realistic facial details, sharp focus, soft intimate lighting, subtle shadows, modern fashion editorial aesthetic, natural expressions, consistent faces and outfits across all three frames, elegant sensual chemistry, realistic photography, no distortion, no text, no watermark, no logo.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/future_gf_image_2.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Karikatür Adam Fotoğrafı",
+    "description": "Fotoğraf gerekli.",
     "prompt": "Turn the person from the photo into a grotesque humorous fashion caricature sketch. Strongly exaggerated anatomy, elongated proportions, expressive crooked hands, dramatic face, awkward elegant posture, satirical fashion energy, messy ink lines, rough watercolor, sketchbook style, vintage magazine illustration on beige aged paper. Add handwritten English notes, arrows, funny observations, doodles, and absurd personality analysis around the character. 1:1 image ratio.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/cartoon_image_3.jpg"
   },
   {
-    "id": 11,
-    "title": "Seyahat Hatıra Kutusu",
-    "description": "Resim gereklidir.",
-    "prompt": "Create a premium Instagram travel-poster illustration for [ÜLKE/ŞEHİR] in a cohesive collectible \"souvenir box\" series. Show an open vintage cardboard box containing exactly 10 culturally authentic, visually distinctive souvenirs, automatically selected for [ÜLKE/ŞEHİR]: 1 hero + 2–3 supporting objects + secondary keepsakes, with varied materials, scale and silhouette. Add exactly 4 paper elements: folded illustrated map with 4 diverse destinations, perforated travel ticket, die-cut destination sticker, and one culturally appropriate paper-craft element. Use a warm textured-paper background and huge distressed condensed [ÜLKE] typography behind the box. Build an original [ÜLKE/ŞEHİR]-specific palette from its landscape, architecture, crafts and culture: dominant + secondary + warm neutral + accent + dark text. Style: premium tactile 3D collectible illustration + vintage international travel poster + editorial magazine cover + nostalgic packaging design; soft studio lighting, contact shadows, ambient occlusion, fine material grain, handmade imperfections, sophisticated—not glossy CGI. Add restrained travel ephemera: 4–7",
+    "id": 17,
+    "title": "Seyahat Hatıra Kutusu Posteri",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a premium Instagram travel-poster illustration for [ÜLKE] in a cohesive collectible \"souvenir box\" series. Show an open vintage cardboard box containing exactly 10 culturally authentic, visually distinctive souvenirs, automatically selected for [ÜLKE]: 1 hero + 2–3 supporting objects + secondary keepsakes, with varied materials, scale and silhouette. Add exactly 4 paper elements: folded illustrated map with 4 diverse destinations, perforated travel ticket, die-cut destination sticker, and one culturally appropriate paper-craft element. Use a warm textured-paper background and huge distressed condensed [ÜLKE] typography behind the box. Build an original [ÜLKE]-specific palette from its landscape, architecture, crafts and culture: dominant + secondary + warm neutral + accent + dark text. Style: premium tactile 3D collectible illustration + vintage international travel poster + editorial magazine cover + nostalgic packaging design; soft studio lighting, contact shadows, ambient occlusion, fine material grain, handmade imperfections, sophisticated—not glossy CGI. Add restrained travel ephemera: 4–7",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/travel_poster_image.jpg"
   },
   {
-    "id": 12,
-    "title": "Alevli Kahve Kutusu",
-    "description": "Resim gereklidir.",
+    "id": 18,
+    "title": "Alevli Kafatası Kahve Kutusu",
+    "description": "Fotoğraf gerekli.",
     "prompt": "A hyper-realistic cinematic 3D render of a Coffee drink name of brand [MARKA ADI] can, bursting open with a flaming skull emerging from the middle. The can features sharp metallic textures with condensation droplets and reflections, surrounded by intense flames and fiery energy. The background shows a dramatic waterfall and glowing sunset sky, with cinematic depth of field, realistic lighting, and smoke particles. Ultra-detailed, 8K render, premium product shot, dark and intense atmosphere.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/flaming_coffee_image.jpg"
   },
   {
-    "id": 13,
-    "title": "Yüz & Kahve Portresi",
-    "description": "Resim gereklidir.",
+    "id": 19,
+    "title": "Buhardan Yüz Çıkan Kahve Portresi",
+    "description": "Fotoğraf gerekli.",
     "prompt": "A moody, cinematic portrait where a person's face emerges from the rising steam of a dark rustic coffee cup placed on a weathered wooden table. The face appears in black and white tones, seamlessly blending with the swirling white steam, with the person's hand gently resting near their lips in a thoughtful, contemplative pose. The steam curls upward dramatically, forming the shape of the person's head and hair. On the right side of the steam, elegant cursive handwritten text reads [KAHVE METNİ] in white. The background is dark and blurred with soft window light, creating a dramatic chiaroscuro lighting effect. The coffee cup is dark ceramic, handmade style, sitting on a rustic wooden surface. Overall atmosphere is romantic, mysterious, and artistic — a surreal double-exposure style composition merging portrait photography with still life.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/smoky_coffe_image.jpg"
   }
