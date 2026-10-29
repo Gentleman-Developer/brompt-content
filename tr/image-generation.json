@@ -131,5 +131,54 @@
     "description": "Fotoğraf gerekli.",
     "prompt": "A moody, cinematic portrait where a person's face emerges from the rising steam of a dark rustic coffee cup placed on a weathered wooden table. The face appears in black and white tones, seamlessly blending with the swirling white steam, with the person's hand gently resting near their lips in a thoughtful, contemplative pose. The steam curls upward dramatically, forming the shape of the person's head and hair. On the right side of the steam, elegant cursive handwritten text reads [KAHVE METNİ] in white. The background is dark and blurred with soft window light, creating a dramatic chiaroscuro lighting effect. The coffee cup is dark ceramic, handmade style, sitting on a rustic wooden surface. Overall atmosphere is romantic, mysterious, and artistic — a surreal double-exposure style composition merging portrait photography with still life.",
     "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/smoky_coffe_image.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Biceps Dövme",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "A candid, casual close-up photo of a muscular man's flexed bicep, natural smartphone photography style. A delicate woman's hand gently grips the man's arm from the side, fingers wrapped naturally around it. She has long, elegant, glossy dark red stiletto-shaped manicured nails and a simple silver ring. Prominently and clearly tattooed on the center of the man's bicep is the name \"[İSİM VEYA HARF]\" in a distinct, elegant, and highly legible fine-line font. The dark ink of the tattoo stands out sharply against the highly detailed, realistic skin texture. A casual black t-shirt sleeve is visible at the top edge. Natural, soft everyday lighting, subtle realistic arm hair, intimate and authentic atmosphere. Photorealistic, raw, genuine vibe, sharp focus on the hand and the tattoo.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/biceps_tattoo.jpeg"
+  },
+  {
+    "id": 21,
+    "title": "Minyatür Bebek Drive-Thru",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Use the uploaded photo as the identity reference and reimagine the subject as a recognizable cute handcrafted miniature doll. Compact round face, soft cheeks, petite short-limbed body, sculpted features, glass eyes, and soft matte handmade skin with subtle irregular micro-texture and gentle tonal variation, no plastic or waxy sheen. Adorable before beautiful. Not photorealistic, anime, fashion doll, plastic, fuzzy or visibly woven.\nA small handcrafted character in a green [MARKA ADI] apron is caught sipping a strawberry Frappuccino as big as the character at a drive-thru window. Straw in mouth, shocked wide eyes, frozen posture, whipped cream on lips. A much smaller baby animal stands on all fours beside them, avoiding eye contact, strawberry whipped cream around its mouth. Customer’s POV from inside a car, outstretched hand waiting. Low 3/4 28mm, awkward comedy, matte handcrafted miniature realism, vertical 4:5.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/miniature_doll.jpeg"
+  },
+  {
+    "id": 22,
+    "title": "Kahve Fincanı Ürün",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a photorealistic product photo of a takeaway coffee cup, exactly matching this composition and style:\nA brown paper coffee cup with a matching plastic lid, steam rising softly from the top. The cup has a light brown cardboard sleeve. Replace the logo on the sleeve with this logo: [MARKA ADI].\nCoffee beans are scattered naturally around the base of the cup. Soft studio lighting, dark brown background, clean and minimal product photography, centered composition, high detail, realistic textures.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/coffee_cup_product.jpeg"
+  },
+  {
+    "id": 23,
+    "title": "Siyah Beyaz Fitness",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Convert this into a high-contrast black and white studio style photo. Keep the exact same pose and body structure. Enhance muscle definition on the back, shoulders, and arms with dramatic lighting. Remove the messy background and replace it with a clean minimal grey studio background. Make the image sharp, cinematic, and aesthetic with deep shadows and strong highlights, professional fitness photography style!",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/black_white_fitness_image.jpeg"
+  },
+  {
+    "id": 24,
+    "title": "Buzlu Kahve Ürün",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "Create a photorealistic commercial product photo of an iced coffee drink in a clear plastic cup, exactly matching this composition and style:\nThe cup is filled with a creamy light-brown iced coffee, topped with a swirl of whipped cream and chocolate drizzle. Replace the logo on the cup with this logo: [MARKA ADI].\nMany roasted coffee beans are floating and flying dynamically around the cup in mid-air. Soft warm lighting, smooth brown gradient background, high detail, realistic textures, commercial advertising photography style, centered composition. 3:4 image ratio.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/iced_coffee_product.jpeg"
+  },
+  {
+    "id": 25,
+    "title": "Kırık Ayna Portresi",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "A cinematic portrait exploring identity and self-reflection. The subject is depicted amidst floating shattered mirror fragments, each reflecting distorted facets of his persona. Dramatic low-key lighting with red accents highlights the mood of introspection and inner conflict.\nCaptured on Sony A1, 85mm f/1.4 lens.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/shattered_mirror_image.jpeg"
+  },
+  {
+    "id": 26,
+    "title": "3D Kristal Logo",
+    "description": "Fotoğraf gerekli.",
+    "prompt": "A brilliant 3D crystal logo is positioned in the center of a deep black background. The attached icon is made of flawless faceted glass or holographic crystal, featuring a radiant surface that scatters light in vivid shades of purple, blue, pink, yellow, and green. Multiple light sources strike the logo from different angles, producing sharp highlights and colorful reflections along its edges and curves, giving it a brilliant and futuristic appearance. Certain areas are transparent, while others act as mirrors with intense reflectivity. The background remains entirely black, causing the brilliant, multicolored crystal form of the icon to stand out.",
+    "image_url": "https://raw.githubusercontent.com/Gentleman-Developer/brompt-content/master/images/3d_crystal_logo.jpeg"
   }
 ]
